@@ -15,11 +15,8 @@ var data;
 var courses;
 
 readTextFile("2019-2020-2.json", function (text) {
-	//text = text.replace("Lab","mehmet");
-	//console.log(data[0]['AD 488.01']);
-
 	data = JSON.parse(text)[0];
-	//console.log(data)
+	
 	courses = Object.keys(data);
 });
 var searchBarText = "";
@@ -42,11 +39,33 @@ document.getElementById('SearchBox').onkeyup = function () {
 };
 
 function clearGrid() {
+	let changes=document.getElementById("displayed_courses").style;
+	changes.visibility="hidden";
+	
+
 	document.getElementById("displayed_courses").innerHTML = "";
+}
+function add_to_table(abbreviation){
+	
+	let hours =  data[abbreviation].Hours
+	var days = ["M","T","W","Th","F"]
+	for( i = 0; i < days.length;i++){
+		var current_day_hours = hours[days[i]];
+		for(j=0;j<current_day_hours.length;j++){
+			var slot = current_day_hours[j]
+			var column = i+1; 
+			console.log("deneme");
+			course_table_array[slot][column].innerHTML = data[abbreviation].Course_name;
+
+		}
+	}
+
 }
 function updateGrid() {
 	var body = document.getElementById("displayed_courses")
 	clearGrid();
+	let changes=document.getElementById("displayed_courses").style;
+	changes.visibility="visible";
 	var first_row = document.createElement("tr");
 	var string1 = "Abbreviation";
 	var string2 = "Course Name";
@@ -63,9 +82,9 @@ function updateGrid() {
 	body.appendChild(first_row);
 
 	function buttonFinder() {
-		console.log(data[this.id])
-		//console.log(this.id);
-		//console.log(button.parentElement);
+		console.log(data[this.id]);
+		add_to_table(this.id);
+		
 	}
 	for (id in displayed_courses) {
 		var abbreviation = displayed_courses[id];
@@ -95,3 +114,19 @@ function updateGrid() {
 		body.appendChild(course_row);
 	}
 }
+var rows_array=document.getElementsByTagName("table")[1].rows
+
+var course_table_array=new Array();
+for ( var row in rows_array){
+	row = rows_array[row];
+let temp=new Array();
+console.log(row);
+for (var cell in row.cells){
+	
+	temp.push(row.cells[cell]);
+}
+course_table_array.push(temp);
+
+}
+course_table_array.push("12")
+console.log(course_table_array)

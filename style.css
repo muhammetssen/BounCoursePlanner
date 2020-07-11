@@ -1,17 +1,42 @@
 #displayed_courses{
-    position: absolute;
+    
+    position: absolute; 
     height: 30%;
     overflow-y:scroll;
-    display: block;
+    display: inline-block;
     font-size: large;
+    margin:30px;
+    visibility: hidden;
+    
 
 }
-input {
+
+.container {
     font-size: x-large;
+    position: relative;
+    left:5px;
+    
 }
 #displayed_courses tr:nth-child(even) {
     background-color: #eee;
+    
   }
 #displayed_courses tr:nth-child(odd) {
    background-color: #fff;
+
   }
+#course_table{
+  
+    
+    right:5px;
+    width: 60%;
+    
+    border-spacing: 0;
+    
+}
+#tablo th,td{
+    height: 10%;
+    border:1px solid black;
+    padding: 10px;
+    
+}
