@@ -114,19 +114,30 @@ function updateGrid() {
 		body.appendChild(course_row);
 	}
 }
-var rows_array=document.getElementsByTagName("table")[1].rows
+var rows_array=new Array();
+rows_array=document.getElementsByTagName("table")[1].rows
 
 var course_table_array=new Array();
-for ( var row in rows_array){
-	row = rows_array[row];
-let temp=new Array();
-console.log(row);
-for (var cell in row.cells){
+typeof(rows_array)
+Object.values(rows_array).forEach(rows => {
+	var temp=new Array();
+	Object.values(rows.cells).forEach(cell => {
+		temp.push(cell);
+		
 	
-	temp.push(row.cells[cell]);
-}
-course_table_array.push(temp);
+	})
+	course_table_array.push(temp);
+});
+// for ( var row in rows_array){
+// 	row = rows_array[row];
+// let temp=new Array();
+// console.log(row);
+// for (var cell in row.cells){
+	
+// 	temp.push(row.cells[cell]);
+// }
+// course_table_array.push(temp);
 
-}
-course_table_array.push("12")
+// }
+
 console.log(course_table_array)
