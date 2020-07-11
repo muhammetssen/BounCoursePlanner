@@ -1,0 +1,17 @@
+#displayed_courses{
+    position: absolute;
+    height: 30%;
+    overflow-y:scroll;
+    display: block;
+    font-size: large;
+
+}
+input {
+    font-size: x-large;
+}
+#displayed_courses tr:nth-child(even) {
+    background-color: #eee;
+  }
+#displayed_courses tr:nth-child(odd) {
+   background-color: #fff;
+  }
