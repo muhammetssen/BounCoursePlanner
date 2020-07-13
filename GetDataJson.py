@@ -10,7 +10,7 @@ with open("departments.txt","r") as file:
 
 for donem in donems:
     courses = {}
-    for department in departments[:2]:
+    for department in departments:
         print(department)
         words = department.split(":")
         params = {
@@ -29,8 +29,12 @@ for donem in donems:
             course_name = content[2].getText(strip=True)
             if course_name == 'LAB':
                 abbreviation = last_used + 'Lab' 
+                course_name = last_used + ' Lab'
+
             elif course_name == 'P.S.':
                 abbreviation = last_used + 'PS'
+                course_name = last_used + ' PS'
+
             else:
                 last_used = abbreviation 
             abbreviation = abbreviation.replace(" ","")
@@ -42,8 +46,8 @@ for donem in donems:
             places = content[8].getText(strip=True)
             temp_dict= {
                 "Course_name":course_name,
-                "Credit":credit,
-                'Ects':ects,
+                "Credit":float(credit) if credit != "" else 0,
+                'Ects':float(ects) if ects != "" else 0,
                 'Instructor_name':teacher_name,
                 'Hours': get_hours(days,hours),
                 'Places':places
