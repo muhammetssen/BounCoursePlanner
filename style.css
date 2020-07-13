@@ -1,42 +1,61 @@
 #displayed_courses{
     
-    position: absolute; 
-    height: 30%;
+    position: relative; 
+    height: 200px;
+    width: 715px;
+    display:block;
+    font-size: 14px;
+    margin:5px;
     overflow-y:scroll;
-    display: inline-block;
-    font-size: large;
-    margin:30px;
     visibility: hidden;
     
-
+    
+    
 }
 
 .container {
     font-size: x-large;
     position: relative;
     left:5px;
+    height:100;
+    float:left;
     
+}
+#tablo th{
+    
+    /* width:30px; */
+    border:1px solid black;
+    padding: 8px 35px 8px 35px; 
+    width:60px;
+    font-size: 14px;
+    
+}
+#tablo td{
+    
+    
+    width:50px;
+    
+     border:1px solid black;
+     padding: 8px 35px 8px 35px; 
+     font-size: 14px;
+
 }
 #displayed_courses tr:nth-child(even) {
     background-color: #eee;
-    
+    padding:5px;
   }
 #displayed_courses tr:nth-child(odd) {
    background-color: #fff;
+   padding:5px;
 
   }
 #course_table{
-  
-    
-    right:5px;
-    width: 60%;
-    
+    table-layout: auto;
+    position: absolute;
+    display:block;
+    margin-top:5px;
+    margin-left:5px;
+    box-sizing: content-box;
+    /* margin-bottom:5px; */
     border-spacing: 0;
-    
-}
-#tablo th,td{
-    height: 10%;
-    border:1px solid black;
-    padding: 10px;
-    
 }

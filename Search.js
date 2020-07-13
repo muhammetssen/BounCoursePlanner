@@ -55,7 +55,7 @@ function add_to_table(abbreviation){
 			var slot = current_day_hours[j]
 			var column = i+1; 
 			console.log("deneme");
-			course_table_array[slot][column].innerHTML = data[abbreviation].Course_name;
+			course_table_array[slot][column].innerHTML = course_table_array[slot][column].innerHTML+abbreviation;
 
 		}
 	}
@@ -103,9 +103,10 @@ function updateGrid() {
 		var tag3 = document.createElement("td");
 		tag3.appendChild(document.createTextNode(course.Instructor_name));
 		course_row.appendChild(tag3);
-
+		var tag4=document.createElement("td");
 		var inputElement = document.createElement('input');
-		course_row.appendChild(inputElement);
+		tag4.appendChild(inputElement);
+		course_row.appendChild(tag4);
 		inputElement.type = "button";
 		inputElement.text = "Add";
 		inputElement.id = abbreviation;
@@ -128,16 +129,6 @@ Object.values(rows_array).forEach(rows => {
 	})
 	course_table_array.push(temp);
 });
-// for ( var row in rows_array){
-// 	row = rows_array[row];
-// let temp=new Array();
-// console.log(row);
-// for (var cell in row.cells){
-	
-// 	temp.push(row.cells[cell]);
-// }
-// course_table_array.push(temp);
 
-// }
 
 console.log(course_table_array)
