@@ -1,13 +1,17 @@
 #displayed_courses{
     
-    position: absolute; 
-    height: 30%;
+    
+    height: 40%;
     overflow-y:scroll;
     display: inline-block;
     font-size: large;
     margin:30px;
     visibility: hidden;
-    
+    position: absolute;
+    bottom:40px;
+    left:10px;
+}
+.AddButton{
 
 }
 
@@ -26,10 +30,8 @@
 
   }
 #course_table{
-  
-    
     right:5px;
-    width: 60%;
+    width: 70%;
     
     border-spacing: 0;
     
