@@ -13,7 +13,7 @@ function readTextFile(file, callback) {
 //usage:
 var data;
 var courses;
-
+var backup_of_course_table_array;
 readTextFile("2019-2020-2.json", function (text) {
 	data = JSON.parse(text)[0];
 	
@@ -47,25 +47,45 @@ let added_courses = new Array();
 
 
 function update_course_table(){
+	course_table_array=[...backup_of_course_table_array];
 	added_courses.forEach(abbreviation => {
-		let hours =  data[abbreviation].Hours
+		
+	});
+}
+function remove_from_array(arr,item){
+	var index=arr.indexOf(item);
+	if (index > -1){
+		arr.splice(index,1);
+	}
+}
+function add_to_table(abbreviation){
+	//added_courses.push(abbreviation);
+	let hours =  data[abbreviation].Hours
 		var days = ["M","T","W","Th","F"]
 		for( i = 0; i < days.length;i++){
 			var current_day_hours = hours[days[i]];
 			for(j=0;j<current_day_hours.length;j++){
 				var slot = current_day_hours[j]
 				var column = i+1; 
-				course_table_array[slot][column].innerHTML = data[abbreviation].Course_name;
+				course_table_array[slot][column].innerHTML = abbreviation;
 			}
 		}
-	});
-}
-function add_to_table(abbreviation){
-	added_courses.push(abbreviation);
+	//update_course_table();
+
 }
 function remove_from_table(abbreviation){
-
-	console.log()
+	remove_from_array(added_courses, abbreviation);
+	let hours =  data[abbreviation].Hours
+		var days = ["M","T","W","Th","F"]
+		for( i = 0; i < days.length;i++){
+			var current_day_hours = hours[days[i]];
+			for(j=0;j<current_day_hours.length;j++){
+				var slot = current_day_hours[j]
+				var column = i+1; 
+				course_table_array[slot][column].innerHTML = "";
+			}
+		}
+	
 }
 function updateGrid() {
 	var body = document.getElementById("displayed_courses")
@@ -139,3 +159,5 @@ Object.values(rows_array).forEach(rows => {
 	})
 	course_table_array.push(temp);
 });
+backup_of_course_table_array=[...course_table_array];
+
