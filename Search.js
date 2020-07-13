@@ -41,25 +41,31 @@ document.getElementById('SearchBox').onkeyup = function () {
 function clearGrid() {
 	let changes=document.getElementById("displayed_courses").style;
 	changes.visibility="hidden";
-	
-
 	document.getElementById("displayed_courses").innerHTML = "";
 }
-function add_to_table(abbreviation){
-	
-	let hours =  data[abbreviation].Hours
-	var days = ["M","T","W","Th","F"]
-	for( i = 0; i < days.length;i++){
-		var current_day_hours = hours[days[i]];
-		for(j=0;j<current_day_hours.length;j++){
-			var slot = current_day_hours[j]
-			var column = i+1; 
-			console.log("deneme");
-			course_table_array[slot][column].innerHTML = course_table_array[slot][column].innerHTML+abbreviation;
+let added_courses = new Array();
 
+
+function update_course_table(){
+	added_courses.forEach(abbreviation => {
+		let hours =  data[abbreviation].Hours
+		var days = ["M","T","W","Th","F"]
+		for( i = 0; i < days.length;i++){
+			var current_day_hours = hours[days[i]];
+			for(j=0;j<current_day_hours.length;j++){
+				var slot = current_day_hours[j]
+				var column = i+1; 
+				course_table_array[slot][column].innerHTML = data[abbreviation].Course_name;
+			}
 		}
-	}
+	});
+}
+function add_to_table(abbreviation){
+	added_courses.push(abbreviation);
+}
+function remove_from_table(abbreviation){
 
+	console.log()
 }
 function updateGrid() {
 	var body = document.getElementById("displayed_courses")
@@ -82,8 +88,15 @@ function updateGrid() {
 	body.appendChild(first_row);
 
 	function buttonFinder() {
-		console.log(data[this.id]);
-		add_to_table(this.id);
+		if(this.value == "Add"){
+			add_to_table(this.id);
+			this.value = "Remove";
+		}
+		else{
+			remove_from_table(this.id);
+			this.value = "Add";
+		}
+		//console.log(data[this.id]);
 		
 	}
 	for (id in displayed_courses) {
@@ -108,10 +121,10 @@ function updateGrid() {
 		tag4.appendChild(inputElement);
 		course_row.appendChild(tag4);
 		inputElement.type = "button";
-		inputElement.text = "Add";
+		inputElement.value = "Add";
 		inputElement.id = abbreviation;
+		inputElement.className = "AddButton";
 		inputElement.addEventListener('click', buttonFinder);
-
 		body.appendChild(course_row);
 	}
 }
@@ -119,16 +132,10 @@ var rows_array=new Array();
 rows_array=document.getElementsByTagName("table")[1].rows
 
 var course_table_array=new Array();
-typeof(rows_array)
 Object.values(rows_array).forEach(rows => {
 	var temp=new Array();
 	Object.values(rows.cells).forEach(cell => {
-		temp.push(cell);
-		
-	
+		temp.push(cell);	
 	})
 	course_table_array.push(temp);
 });
-
-
-console.log(course_table_array)
