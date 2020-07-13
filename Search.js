@@ -11,13 +11,19 @@ function readTextFile(file, callback) {
 }
 
 //usage:
-var data;
+var courseJson;
 var courses;
 var backup_of_course_table_array;
+var totalCredit = 0;
+var totalCreditElement  = document.getElementById("TotalCredit");
+totalCreditElement.innerHTML = "Credit: "+ totalCredit;
+totalCreditElement.style.left = "20px";
+
+
 readTextFile("2019-2020-2.json", function (text) {
-	data = JSON.parse(text)[0];
+	courseJson = JSON.parse(text)[0];
 	
-	courses = Object.keys(data);
+	courses = Object.keys(courseJson);
 });
 var searchBarText = "";
 document.getElementById('SearchBox').onkeyup = function () {
@@ -42,16 +48,12 @@ function clearGrid() {
 	let changes=document.getElementById("displayed_courses").style;
 	changes.visibility="hidden";
 	document.getElementById("displayed_courses").innerHTML = "";
+
 }
 let added_courses = new Array();
 
 
-function update_course_table(){
-	course_table_array=[...backup_of_course_table_array];
-	added_courses.forEach(abbreviation => {
-		
-	});
-}
+
 function remove_from_array(arr,item){
 	var index=arr.indexOf(item);
 	if (index > -1){
@@ -59,8 +61,9 @@ function remove_from_array(arr,item){
 	}
 }
 function add_to_table(abbreviation){
-	//added_courses.push(abbreviation);
-	let hours =  data[abbreviation].Hours
+	added_courses.push(abbreviation);
+	Credit_List(abbreviation,true);
+	let hours =  courseJson[abbreviation].Hours
 		var days = ["M","T","W","Th","F"]
 		for( i = 0; i < days.length;i++){
 			var current_day_hours = hours[days[i]];
@@ -68,14 +71,40 @@ function add_to_table(abbreviation){
 				var slot = current_day_hours[j]
 				var column = i+1; 
 				course_table_array[slot][column].innerHTML = abbreviation;
+				((course_table_array[slot][column].style.fontSize = "small")) ;
+
 			}
 		}
 	//update_course_table();
 
 }
+
+function Credit_List(abbreviation,add_or_remove){
+	var course=courseJson[abbreviation];
+	var course_li=document.getElementById("credits");
+	if(add_or_remove){
+		var new_li = document.createElement("li");
+		new_li.id = "Credit"+abbreviation;
+		new_li.innerHTML= abbreviation;
+		var creditSpan = document.createElement("span");
+		creditSpan.innerHTML= course.Credit;
+		creditSpan.style.float ="right";
+		creditSpan.style.marginRight ="10px";
+		new_li.appendChild(creditSpan)
+		course_li.appendChild(new_li);
+		totalCredit += course.Credit;
+	}
+	else{
+		course_li.removeChild(document.getElementById("Credit"+abbreviation));
+		totalCredit -= course.Credit;
+	}
+	totalCreditElement.innerHTML = "Credit: " + totalCredit;
+
+}
 function remove_from_table(abbreviation){
 	remove_from_array(added_courses, abbreviation);
-	let hours =  data[abbreviation].Hours
+	Credit_List(abbreviation,false)
+	let hours =  courseJson[abbreviation].Hours
 		var days = ["M","T","W","Th","F"]
 		for( i = 0; i < days.length;i++){
 			var current_day_hours = hours[days[i]];
@@ -121,7 +150,7 @@ function updateGrid() {
 	}
 	for (id in displayed_courses) {
 		var abbreviation = displayed_courses[id];
-		var course = data[abbreviation];
+		var course = courseJson[abbreviation];
 		//var innerText = abbreviation+ " "+ course.Course_name + " "+JSON.stringify(course.Hours)     ;
 		var course_row = document.createElement("tr");
 

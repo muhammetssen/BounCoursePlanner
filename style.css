@@ -1,63 +1,84 @@
-#displayed_courses{
-    
-    position: relative; 
-    height: 200px;
-    width: 740px;
-    display:block;
-    font-size: 14px;
-    margin:5px;
-    overflow-y:scroll;
-    display:block;
-    visibility: hidden;
-    
-    
-    
+#displayed_courses {
+  position: relative;
+  height: 400px;
+  width: 80%;
+  display: block;
+  font-size: 14px;
+  margin: 5px;
+  
+  overflow-y: scroll;
+  display: block;
+  visibility: hidden;
 }
 
 .container {
-    font-size: x-large;
-    position: relative;
-    left:5px;
-    height:100;
-    display:block;
-    float:left;
+  font-size: x-large;
+  position: relative;
+  left: 5px;
+  height: 100;
+  display: block;
+  float: left;
+}
+#tablo {
+    height: 40px;
     
 }
-#tablo th{
-    
-    /* width:30px; */
-    border:1px solid black;
-    padding: 8px 35px 8px 35px; 
-    width:60px;
-    font-size: 14px;
-    
-}
-#tablo td{
-    
-    
-    width:50px;
-    
-     border:1px solid black;
-     padding: 8px 35px 8px 35px; 
-     font-size: 14px;
+#tablo th {
 
+  /* width:30px; */
+  border: 1px solid black;
+  /*padding: 8px 10px 8px 10px; */
+  /* width: 60px; */
+  font-size: 14px;
+}
+#tablo td {
+  /* width: 50px; */
+  border: 1px solid black;
+  /* padding: 8px 10px 8px 10px; */
+  font-size: 16px;
 }
 #displayed_courses tr:nth-child(even) {
-    background-color: #eee;
-    padding:5px;
-  }
+  background-color: #eee;
+}
 #displayed_courses tr:nth-child(odd) {
-   background-color: #fff;
-   padding:5px;
+  background-color: #fff;
 
-  }
-#course_table{
-    table-layout: auto;
-    position: absolute;
-    display:block;
-    margin-top:5px;
-    margin-left:5px;
-    box-sizing: content-box;
-    /* margin-bottom:5px; */
-    border-spacing: 0;
+  /* padding: 5px; */
+}
+#displayed_courses th {
+  width: 10%;
+  text-align: center;
+}
+#displayed_courses td {
+  width: 10%;
+  text-align: center;
+}
+#course_table {
+  table-layout: fixed;
+  position: absolute;
+  /* display: block; */
+  margin-top: 5px;
+  margin-left: 5px;
+  box-sizing: content-box;
+  /* margin-bottom:5px; */
+  border-spacing: 0;
+  width: 80%;
+  text-align: center;
+  font-size: 12px;
+  bottom: 50px;;
+  
+}
+#credits {
+  display: inline-block;
+  right: 4%;
+  position: fixed;
+  top: 2%;
+  width: 12%;
+  list-style-type: none;
+
+  /* overflow: auto; */
+  max-height: 100%;
+
+  
+  
 }
