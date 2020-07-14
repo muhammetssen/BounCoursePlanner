@@ -1,23 +1,32 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  
+  font-family: "Nunito", sans-serif !important;
+  background: #ADA996;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #cac8c2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 #displayed_courses {
   position: static;
   height: 40%;
-  width: 80%;
-  display: block;
+  width: 60%;
+  display: inline-block;
   font-size: 14px;
   margin: 5px;
+  padding: 0px;
+  margin-left: 10%;
   overflow-y: scroll;
-  display: block;
   visibility: hidden;
 }
-html, body { height: 100%; }
 .container {
   font-size: large;
   position: relative;
   left: 5px;
   margin-top: 5px;
   display: inline-block;
-  
-  
 }
 #tablo th {
   border: 1px solid black;
@@ -34,36 +43,59 @@ html, body { height: 100%; }
   background-color: #fff;
 }
 #displayed_courses th {
-  width: 10%;
+  width: 20%;
   text-align: center;
 }
 #displayed_courses td {
-  width: 10%;
+  width: 29%;
   text-align: center;
 }
+#displayed_courses td:nth-child(1),
+#displayed_courses td:nth-child(4),
+#displayed_courses th:nth-child(1),
+#displayed_courses th:nth-child(4) {
+  width: 5%;
+  text-align: center;
+}
+
 #course_table {
   table-layout: fixed;
-  position: static; 
+  position: static;
   margin: 5px 0px 5px 5px;
   border-spacing: 0;
   width: 80%;
   text-align: center;
   font-size: 12px;
-  
+  border-radius : 20% !important;
+
   height: 50%;
-  
+}
+#course_table tr:nth-child(even) {
+  background-color: #eee;
+}
+#course_table tr:nth-child(odd) {
+  background-color: #fff;
 }
 #credits {
   display: inline-block;
-  right: 4%;
+  right: 2%;
   position: absolute;
   top: 2%;
-  width: 12%;
+  width: 15%;
   list-style-type: none;
-
+  min-width: 200px;
   /* overflow: auto; */
   max-height: 100%;
-
-  
-  
+}
+#MerveKutusu {
+  display: block;
+  /* margin: -10px; */
+  /* padding: 2px; */
+  box-sizing: border-box;
+}
+.RemoveButton {
+  background-color: #ceccc7;
+  border: 0px;
+  right: 10px;
+  position: absolute;
 }
