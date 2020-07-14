@@ -28,11 +28,11 @@ for donem in donems:
             abbreviation = content[0].getText(strip=True).replace(" ","")
             course_name = content[2].getText(strip=True)
             if course_name == 'LAB':
-                abbreviation = last_used + 'Lab' 
+                abbreviation = last_used + ' Lab' 
                 course_name = last_used + ' Lab'
 
             elif course_name == 'P.S.':
-                abbreviation = last_used + 'PS'
+                abbreviation = last_used + ' PS'
                 course_name = last_used + ' PS'
 
             else:
