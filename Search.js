@@ -12,7 +12,7 @@ function readTextFile(file, callback) {
 $(window).on("load", function () {
   console.log("done");
 });
-//usage:
+
 var courseJson;
 var courses;
 var backup_of_course_table_array;
@@ -183,14 +183,21 @@ function updateGrid() {
       remove_from_table(this.id);
       this.value = "Add";
     }
-    //console.log(data[this.id]);
+  }
+  function rowFinder() {
+    add_to_table(this.id.split("Display").join(""))
+  }
+  function rowclose(){
+    remove_from_table(this.id.split("Display").join(""))
   }
   for (id in displayed_courses) {
     var abbreviation = displayed_courses[id];
     var course = courseJson[abbreviation];
     //var innerText = abbreviation+ " "+ course.Course_name + " "+JSON.stringify(course.Hours)     ;
 		var course_row = document.createElement("tr");
-		course_row.id = "Display" + abbreviation;
+    course_row.id = "Display" + abbreviation;
+    course_row.addEventListener('mouseover', rowFinder);
+    course_row.addEventListener('mouseout',rowclose);
 
     var tag1 = document.createElement("td");
     tag1.appendChild(document.createTextNode(abbreviation));
