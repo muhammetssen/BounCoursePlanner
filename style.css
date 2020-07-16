@@ -21,6 +21,9 @@ background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #cac8c2); /* W3
   overflow-y: scroll;
   visibility: hidden;
   border-radius: 1%;
+  border-spacing: 0;
+  border-collapse: collapse;
+
 }
 .container {
   font-size: large;

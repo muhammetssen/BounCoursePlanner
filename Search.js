@@ -72,7 +72,7 @@ function remove_from_array(arr, item) {
     arr.splice(index, 1);
   }
 }
-function add_to_table(abbreviation) {
+function add_to_table(abbreviation,caller_element="Button") {
   added_courses.push(abbreviation);
   Credit_List(abbreviation, true);
   let hours = courseJson[abbreviation].Hours;
@@ -85,7 +85,11 @@ function add_to_table(abbreviation) {
       var column = i + 1;
       var selected_slot = course_table_array[slot][column]; //= abbreviation;
       var newSpan = document.createElement("div");
-      newSpan.className = "CourseTable" + abbreviation;
+      var className = "CourseTable";
+      if(caller_element == "Hover"){
+        className = "Hover" + className;
+      }
+      newSpan.className = className + abbreviation;
       newSpan.innerHTML = abbreviation;
       newSpan.style.backgroundColor = color;
       //newSpan.style.position = "absolute";
@@ -100,12 +104,23 @@ function add_to_table(abbreviation) {
   //update_course_table();
 }
 
-function remove_from_table(abbreviation) {
+function remove_from_table(abbreviation,caller_element="Button") {
   remove_from_array(added_courses, abbreviation);
   Credit_List(abbreviation, false);
-  var list = document.getElementsByClassName("CourseTable" + abbreviation);
+  var className = "CourseTable"
+  if(caller_element == "Hover"){
+    className = "Hover"+className
+  }
+  var list = document.getElementsByClassName(className + abbreviation);
+  console.log(list);
+  var sectionCount = 0;
+  Object.values(courseJson[abbreviation].Hours).forEach((element) => {
+    sectionCount += element.length;
+  });
+  // console.log(sectionCount);
   var count = list.length;
   for (i = 0; i < count; i++) {
+    console.log(list.length);
     var elementToBeRemoved = list[0];
     elementToBeRemoved.parentElement.removeChild(elementToBeRemoved);
   }
@@ -126,10 +141,10 @@ function Credit_List(abbreviation, add_or_remove) {
 
     creditSpan.innerHTML = "Cr: " + course.Credit;
     //creditSpan.style.float = "right";
-		creditSpan.style.marginRight = "10px";
-		if(course.Credit > 0){
-			new_li.appendChild(creditSpan);
-		}
+    creditSpan.style.marginRight = "10px";
+    if (course.Credit > 0) {
+      new_li.appendChild(creditSpan);
+    }
     // new_li.style.backgroundColor = "pink";
     new_li.style.padding = "10px";
     var inputElement = document.createElement("input");
@@ -185,19 +200,20 @@ function updateGrid() {
     }
   }
   function rowFinder() {
-    add_to_table(this.id.split("Display").join(""))
+    add_to_table(this.id.split("Display").join(""),"Hover");
+    console.log("finder");
   }
-  function rowclose(){
-    remove_from_table(this.id.split("Display").join(""))
+  function rowclose() {
+    remove_from_table(this.id.split("Display").join(""),"Hover");
   }
   for (id in displayed_courses) {
     var abbreviation = displayed_courses[id];
     var course = courseJson[abbreviation];
     //var innerText = abbreviation+ " "+ course.Course_name + " "+JSON.stringify(course.Hours)     ;
-		var course_row = document.createElement("tr");
+    var course_row = document.createElement("tr");
     course_row.id = "Display" + abbreviation;
-    course_row.addEventListener('mouseover', rowFinder);
-    course_row.addEventListener('mouseout',rowclose);
+    course_row.addEventListener("mouseover", rowFinder);
+    course_row.addEventListener("mouseout", rowclose);
 
     var tag1 = document.createElement("td");
     tag1.appendChild(document.createTextNode(abbreviation));
