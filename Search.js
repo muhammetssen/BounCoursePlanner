@@ -76,6 +76,8 @@ function add_to_table(abbreviation,caller_element="Button") {
   added_courses.push(abbreviation);
   Credit_List(abbreviation, true);
   let hours = courseJson[abbreviation].Hours;
+  let places=courseJson[abbreviation].Places.split("|");
+  
   var color = colors[Math.floor(Math.random() * colors.length)];
   var days = ["M", "T", "W", "Th", "F"];
   for (i = 0; i < days.length; i++) {
@@ -89,19 +91,17 @@ function add_to_table(abbreviation,caller_element="Button") {
       if(caller_element == "Hover"){
         className = "Hover" + className;
       }
+      let place=places.shift();
       newSpan.className = className + abbreviation;
-      newSpan.innerHTML = abbreviation;
+      newSpan.innerHTML = abbreviation+"<br>"+(place==undefined?"":place);
       newSpan.style.backgroundColor = color;
       //newSpan.style.position = "absolute";
       newSpan.id = "MerveKutusu";
       newSpan.style.fontSize = "small";
       selected_slot.appendChild(newSpan);
-      //selected_slot.style.whiteSpace = "nowrap";
-
-      //course_table_array[slot][column].style.fontSize = "small" ;
+     
     }
   }
-  //update_course_table();
 }
 
 function remove_from_table(abbreviation,caller_element="Button") {
@@ -211,14 +211,11 @@ function updateGrid() {
   for (id in displayed_courses) {
     var abbreviation = displayed_courses[id];
     var course = courseJson[abbreviation];
-    //var innerText = abbreviation+ " "+ course.Course_name + " "+JSON.stringify(course.Hours)     ;
     var course_row = document.createElement("tr");
 
     course_row.id = "Display" + abbreviation;
     
     course_row.addEventListener("mouseenter", rowFinder);
-    //course_row.addEventListener("mouseover", colorfind);
-    //FUCKKKK
     course_row.addEventListener("mouseleave", rowclose);
 
     var tag1 = document.createElement("td");
