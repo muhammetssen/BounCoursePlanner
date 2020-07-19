@@ -73,11 +73,20 @@ function remove_from_array(arr, item) {
   }
 }
 function add_to_table(abbreviation,caller_element="Button") {
-  added_courses.push(abbreviation);
+  var className = "CourseTable"
   Credit_List(abbreviation, true);
+  var list = document.getElementsByClassName("Hover"+className + abbreviation);
+  let count=list.length;
+  if(count>0 && caller_element=="Button"){
+
+    for (let i=0;i<count;i++){
+      list[0].className=className+ abbreviation;
+    }
+    return;
+  }
+  added_courses.push(abbreviation);
   let hours = courseJson[abbreviation].Hours;
   let places=courseJson[abbreviation].Places.split("|");
-  
   var color = colors[Math.floor(Math.random() * colors.length)];
   var days = ["M", "T", "W", "Th", "F"];
   for (i = 0; i < days.length; i++) {
@@ -112,6 +121,7 @@ function remove_from_table(abbreviation,caller_element="Button") {
     className = "Hover"+className
   }
   var list = document.getElementsByClassName(className + abbreviation);
+  
   console.log(list);
   var sectionCount = 0;
   Object.values(courseJson[abbreviation].Hours).forEach((element) => {
@@ -140,12 +150,10 @@ function Credit_List(abbreviation, add_or_remove) {
     creditSpan.style.fontSize = "10px";
 
     creditSpan.innerHTML = "Cr: " + course.Credit;
-    //creditSpan.style.float = "right";
     creditSpan.style.marginRight = "10px";
     if (course.Credit > 0) {
       new_li.appendChild(creditSpan);
     }
-    // new_li.style.backgroundColor = "pink";
     new_li.style.padding = "10px";
     var inputElement = document.createElement("input");
 
@@ -199,14 +207,15 @@ function updateGrid() {
       this.value = "Add";
     }
   }
+  
   function rowFinder() {
-    console.log("geldim")
     add_to_table(this.id.split("Display").join(""),"Hover");
-    console.log("finder");
   }
-  function rowclose() {
+  
+  function rowclose(){
     remove_from_table(this.id.split("Display").join(""),"Hover");
-  }
+  } 
+  
   
   for (id in displayed_courses) {
     var abbreviation = displayed_courses[id];
