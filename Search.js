@@ -200,20 +200,26 @@ function updateGrid() {
     }
   }
   function rowFinder() {
+    console.log("geldim")
     add_to_table(this.id.split("Display").join(""),"Hover");
     console.log("finder");
   }
   function rowclose() {
     remove_from_table(this.id.split("Display").join(""),"Hover");
   }
+  
   for (id in displayed_courses) {
     var abbreviation = displayed_courses[id];
     var course = courseJson[abbreviation];
     //var innerText = abbreviation+ " "+ course.Course_name + " "+JSON.stringify(course.Hours)     ;
     var course_row = document.createElement("tr");
+
     course_row.id = "Display" + abbreviation;
-    course_row.addEventListener("mouseover", rowFinder);
-    course_row.addEventListener("mouseout", rowclose);
+    
+    course_row.addEventListener("mouseenter", rowFinder);
+    //course_row.addEventListener("mouseover", colorfind);
+    //FUCKKKK
+    course_row.addEventListener("mouseleave", rowclose);
 
     var tag1 = document.createElement("td");
     tag1.appendChild(document.createTextNode(abbreviation));
