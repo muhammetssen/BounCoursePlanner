@@ -23,6 +23,7 @@ body {
   border-radius: 1%;
   border-spacing: 0;
   border-collapse: collapse!important;
+  table-layout: fixed;
 
 }
 .container {
@@ -108,4 +109,11 @@ body {
   border: 0px;
   right: 10px;
   position: absolute;
+}
+
+.conflict{
+  color: red;
+  text-align: right;
+
+
 }
