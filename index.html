@@ -15,11 +15,38 @@
     <div class="container">
         <input type='text' id='SearchBox'>
         <input type='button' id='link' value='Search'>
+        <label style="font-size: 15px;">Department:</label>
+        <select name="Departments" id="DepartmentsDropDown">
+            <option value="">Please choose your department</option>
+        </select>
+
+        <select name="Semesters" id="SemesterDropDown">
+            <option value="">Semester</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+
+
+        </select>
 
     </div>
 
     <table id="displayed_courses">
     </table>
+    <ul id="MustCoursesList" >
+        <h4>Must Courses</h4>
+        <span id="MustCoursesSpan"></span>
+        
+    </ul>
 
 
     <h3 id="TotalCredit" style="position: static; margin-left: 5%;"></h3>
@@ -129,7 +156,7 @@
     </table>
 
     <div id="credits">
-        <h3>Courses</h3>
+        <h3 style="text-align: right;">Courses</h3>
     </div>
 
 
