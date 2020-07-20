@@ -1,0 +1,2826 @@
+[{
+  "CHEMICAL ENGINEERING": {
+    "1": [
+      "CHE 110",
+      "CHEM103",
+      "CHEM109",
+      "CMPE150",
+      "EC  101",
+      "MATH101"
+    ],
+    "2": [
+      "CHEM104",
+      "EC  102",
+      "HSS- HUM.SOS.SCI.ELECTIVE-1",
+      "MATH102",
+      "PHYS121"
+    ],
+    "3": [
+      "CHE 201",
+      "CHE 203",
+      "CHE 211",
+      "CHEM241",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "CHE 202",
+      "CHE 222",
+      "CHE 232",
+      "MATH202",
+      "ME  210",
+      "TK  222"
+    ],
+    "5": [
+      "CHE 321",
+      "CHE 333",
+      "CHE 353",
+      "CHE 383",
+      "COMPLEMENTARY COURSE-1",
+      "HTR 311"
+    ],
+    "6": [
+      "CHE 302",
+      "CHE 334",
+      "CHE 342",
+      "CHE 386",
+      "HSS- HUM.SOS.SCI.ELECTIVE-2",
+      "HTR 312"
+    ],
+    "7": [
+      "CHE 401",
+      "CHE 433",
+      "CHE 475",
+      "SPECIALIZATION OPTION-1",
+      "SPECIALIZATION OPTION-2"
+    ],
+    "8": [
+      "CHE 462",
+      "CHE 492",
+      "COMPLEMENTARY COURSE-2",
+      "SPECIALIZATION OPTION-3",
+      "UNRESTRICTED ELECTIVE-1"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "CHEMISTRY": {
+    "1": [
+      "CHEM103",
+      "CHEM107",
+      "HSS ELECTIVE/AE",
+      "MATH101",
+      "PHYS101"
+    ],
+    "2": [
+      "CHEM104",
+      "CHEM108",
+      "HSS ELECTIVE/AE",
+      "MATH102",
+      "PHYS130"
+    ],
+    "3": [
+      "CHEM201",
+      "CHEM203",
+      "CHEM245",
+      "COMPUTER ELECTIVE",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "CHEM202",
+      "CHEM204",
+      "CHEM242",
+      "CHEM244",
+      "HSS ELECTIVE",
+      "TK  222",
+      "UNRESTR. ELECTIVE"
+    ],
+    "5": [
+      "CHEM305",
+      "CHEM307",
+      "CHEM331",
+      "CHEM333",
+      "CHEM351",
+      "HTR 311"
+    ],
+    "6": [
+      "CHEM308",
+      "CHEM352",
+      "CHEM356",
+      "CHEM363",
+      "HSS ELECTIVE",
+      "HTR 312"
+    ],
+    "7": [
+      "CHEM415",
+      "CHEM451",
+      "COMPLEMENTARY ELECTIVE",
+      "DEPT.ELECTIVE",
+      "UNRESTR.ELECTIVE"
+    ],
+    "8": [
+      "CHEM402",
+      "CHEM442",
+      "DEPARTMENTAL ELECTIVE-1",
+      "DEPARTMENTAL ELECTIVE-2",
+      "DEPT./COMPLEMENTARY ELECTIVE",
+      "HSS ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "CIVIL ENGINEERING": {
+    "1": [
+      "CE  101",
+      "CMPE150",
+      "EC  101",
+      "MATH101",
+      "PHYS101"
+    ],
+    "2": [
+      "CHEM105",
+      "EC  102",
+      "ENGG110",
+      "MATH102",
+      "PHYS130"
+    ],
+    "3": [
+      "CE  211",
+      "CE  231",
+      "CE  243",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "CE  212",
+      "CE  214",
+      "CE  244",
+      "CE  246",
+      "MATH202",
+      "TK  222"
+    ],
+    "5": [
+      "CE  303",
+      "CE  315",
+      "CE  335",
+      "CE  355",
+      "HSS ELECTIVE-1",
+      "HTR 311"
+    ],
+    "6": [
+      "CE  322",
+      "CE  336",
+      "CE  354",
+      "CE  356",
+      "HSS ELECTIVE-2",
+      "HTR 312"
+    ],
+    "7": [
+      "CE  401",
+      "CE  461",
+      "DEPARTMENTAL ELECTIVE-1",
+      "DEPARTMENTAL ELECTIVE-2",
+      "UNRESTRICTED ELECTIVE-1"
+    ],
+    "8": [
+      "CE  402",
+      "CE  492",
+      "DEPARTMENTAL ELECTIVE-3",
+      "RESTRICTED ELECTIVE-1",
+      "UNRESTRICTED ELECTIVE-2"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "COMPUTER EDUCATION & EDUCATIONAL TECHNOLOGY": {
+    "1": [
+      "AE  111/HSS ELECTIVE",
+      "CET 101",
+      "ED  101",
+      "MATH101",
+      "PHYS101"
+    ],
+    "2": [
+      "AE  112/HSS ELECTIVE",
+      "CET 102",
+      "CMPE150",
+      "MATH102/MATH201",
+      "PHYS130"
+    ],
+    "3": [
+      "CET 215",
+      "CMPE210",
+      "ED  211",
+      "ED  221",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "CET 224",
+      "CET 282",
+      "CHEM103",
+      "CHEM109",
+      "TK  222",
+      "UNRESTRICTED ELECTIVE/HSS I"
+    ],
+    "5": [
+      "CET 301",
+      "CET 321",
+      "CET 341",
+      "ED  373",
+      "HTR 311",
+      "UNRESTRICTED ELECTIVE/HSS II"
+    ],
+    "6": [
+      "CET 314",
+      "CET 322",
+      "CET 372",
+      "HTR 312",
+      "UNRESTRICTED ELECTIVE/HSS III"
+    ],
+    "7": [
+      "CET 401",
+      "CET 431",
+      "CET 441",
+      "CET 451",
+      "ED  401"
+    ],
+    "8": [
+      "CET 444",
+      "CET 462",
+      "CET 472",
+      "SCIENCE ELECTIVE",
+      "UNRESTRICTED ELECTIVE/HSS IV"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "COMPUTER ENGINEERING": {
+    "1": [
+      "CHEM105",
+      "CMPE150",
+      "EC  101",
+      "MATH101",
+      "PHYS121"
+    ],
+    "2": [
+      "CMPE160",
+      "EC  102",
+      "HSS",
+      "MATH102",
+      "PHYS201"
+    ],
+    "3": [
+      "CMPE220",
+      "CMPE250",
+      "EE  210",
+      "MATH201",
+      "PHYS202",
+      "TK  221"
+    ],
+    "4": [
+      "CMPE230",
+      "CMPE240",
+      "CMPE260",
+      "EE  212",
+      "MATH202",
+      "TK  222"
+    ],
+    "5": [
+      "CMPE300",
+      "CMPE322",
+      "CMPE343",
+      "CMPE344",
+      "HTR 311",
+      "IE  310"
+    ],
+    "6": [
+      "CMPE321",
+      "CMPE350",
+      "CMPE352",
+      "CMPE362",
+      "HTR 312",
+      "IE  306"
+    ],
+    "7": [
+      "CC-1",
+      "CC-2",
+      "CC-3",
+      "CMPE443",
+      "CMPE451"
+    ],
+    "8": [
+      "CC-5",
+      "CC-6",
+      "CC-7",
+      "CMPE492",
+      "HSS"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "ECONOMICS": {
+    "1": [
+      "AD  131",
+      "EC  101",
+      "EC  103",
+      "HUM/AE",
+      "MATH101",
+      "POLS101",
+      "SOC 101"
+    ],
+    "2": [
+      "CMPE140",
+      "EC  102",
+      "HUM/AE",
+      "MATH102",
+      "PSY 101",
+      "UNREST ELECTIVE/AE"
+    ],
+    "3": [
+      "AD  211",
+      "EC  203",
+      "EC  205",
+      "EC  223",
+      "EC  233",
+      "TK  221"
+    ],
+    "4": [
+      "EC  206",
+      "EC  208",
+      "EC  213",
+      "EC  234",
+      "TK  222",
+      "UNRESTR.ELECTIVE"
+    ],
+    "5": [
+      "EC  331",
+      "EC- AREA ELECTIVE",
+      "EC- AREA ELECTIVE 1",
+      "EC- AREA ELECTIVE 2",
+      "HTR 311",
+      "UNRESTRICT.ELECTIVE"
+    ],
+    "6": [
+      "EC- AREA ELECTIVE 3",
+      "EC- AREA ELECTIVE 4",
+      "EC-AREA ELECTIVE",
+      "EC-AREA ELECTIVE2",
+      "HTR 312",
+      "UNRESTRICT.ELECTIVE"
+    ],
+    "7": [
+      "EC - AREA ELECTIVE",
+      "EC- AREA ELECTIVE 2",
+      "EC- AREA ELECTIVE 3",
+      "UNRESTRICT. ELECTIVE 2",
+      "UNRESTRICT.ELECTIVE 1"
+    ],
+    "8": [
+      "EC  470",
+      "EC- AREA ELECTIVE",
+      "EC- AREA ELECTIVE 1",
+      "UNRESTRICT.ELECTIVE",
+      "UNRESTRICT.ELECTIVE 2"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "ELECTRICAL & ELECTRONICS ENGINEERING": {
+    "1": [
+      "CHEM105",
+      "EC  101",
+      "HUM 101",
+      "MATH101",
+      "MATH201"
+    ],
+    "2": [
+      "CMPE150",
+      "EC  102",
+      "EE  101",
+      "MATH102",
+      "PHYS121"
+    ],
+    "3": [
+      "EE  201",
+      "EE  243",
+      "EE  271",
+      "MATH202",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "EE  214",
+      "EE  232",
+      "EE  244",
+      "EE  272",
+      "PHYS202",
+      "TK  222"
+    ],
+    "5": [
+      "EE  333",
+      "EE  335",
+      "EE  351",
+      "EE  363",
+      "EE  371",
+      "HTR 311"
+    ],
+    "6": [
+      "EE  304",
+      "EE-SPECIFIED ELECTIVE-1",
+      "EE-SPECIFIED ELECTIVE-2",
+      "HSS ELECTIVE-1",
+      "HTR 312",
+      "SPECIFIED ELECTIVE-1"
+    ],
+    "7": [
+      "COMPLEMENTARY ELECTIVE-1",
+      "COMPLEMENTARY ELECTIVE-2",
+      "EE-DEPARTMENTAL ELECTIVE-1",
+      "EE-SPECIFIED ELECTIVE-3",
+      "EE-SPECIFIED ELECTIVE-4"
+    ],
+    "8": [
+      "COMP / HSS ELECTIVE-1",
+      "COMP / HSS ELECTIVE-2",
+      "EE  492",
+      "EE-SPECIFIED ELECTIVE-5",
+      "EE-SPECIFIED ELECTIVE-6"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "FOREIGN LANGUAGE EDUCATION": {
+    "1": [
+      "ED  101",
+      "EL  101",
+      "FLED103",
+      "LING101",
+      "PSY 101"
+    ],
+    "2": [
+      "EL  102",
+      "FLED104",
+      "FLED106",
+      "HSS ELECTIVE",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "3": [
+      "ED  211",
+      "ED  221",
+      "FLED201",
+      "FLED211",
+      "TK  221",
+      "UNRESTRICTED ELECTIVE-1"
+    ],
+    "4": [
+      "FLED212",
+      "FLED216",
+      "FLED218",
+      "HSS ELECTIVE",
+      "TK  222",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "5": [
+      "FLED311",
+      "FLED315",
+      "FLED317",
+      "HTR 311",
+      "LING313",
+      "PRED310"
+    ],
+    "6": [
+      "AL  312",
+      "CET 360",
+      "FLED302",
+      "FLED306",
+      "FLED318",
+      "HTR 312",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "7": [
+      "AREA ELECTIVE",
+      "ED  401",
+      "FLED403",
+      "FLED411",
+      "FLED413"
+    ],
+    "8": [
+      "AREA ELECTIVE",
+      "AREA ELECTIVE 1",
+      "FLED412",
+      "FLED416",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "GLOBAL & INTERNATIONAL AFFAIRS": {
+    "1": [
+      "GIAE101",
+      "GIAH HISTORY ELEC.",
+      "GIAM101",
+      "GIAP101",
+      "GIAS101"
+    ],
+    "2": [
+      "GIAE102",
+      "GIAF142",
+      "GIAH HISTORY ELEC.",
+      "GIAP203",
+      "GIAP241"
+    ],
+    "3": [],
+    "4": [],
+    "5": [
+      "GIAE ECONOMICS ELEC.",
+      "GIAH321",
+      "GIAP246",
+      "GIAP463",
+      "GIAS SOC.ELEC.",
+      "GIAT221"
+    ],
+    "6": [
+      "GIAH322",
+      "GIAP ELEC.",
+      "GIAP303",
+      "GIAP338",
+      "GIAS354",
+      "GIAT222"
+    ],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "GUIDANCE & PSYCHOLOGICAL COUNSELING": {
+    "1": [
+      "AE  111/112/UNREST ELEC.",
+      "EC  101/102",
+      "ED  101",
+      "ED  121",
+      "MATH105/106",
+      "SOC 101"
+    ],
+    "2": [
+      "BIO 152",
+      "ED  104",
+      "ED  132",
+      "HIST105/106/HUM 101/102",
+      "PHIL101/112",
+      "PSY 101"
+    ],
+    "3": [
+      "ED  201",
+      "ED  209",
+      "ED  221",
+      "PSY 241/242",
+      "TK  221",
+      "UNREST. ELECTIVE-1"
+    ],
+    "4": [
+      "COMP. ELECTIVE-1",
+      "ED  208",
+      "ED  252",
+      "SPEC. ELECTIVE-1",
+      "TK  222",
+      "UNREST. ELECTIVE-2"
+    ],
+    "5": [
+      "CET 360",
+      "ED  309",
+      "ED  325",
+      "ED  373",
+      "HTR 311",
+      "SPEC. ELECTIVE-2"
+    ],
+    "6": [
+      "ED  330",
+      "ED  370",
+      "ED  378",
+      "HTR 312",
+      "UNREST. ELECTIVE-3",
+      "UNREST. ELECTIVE-4"
+    ],
+    "7": [
+      "ED  401",
+      "ED  425",
+      "ED  429",
+      "ED  477",
+      "UNREST. ELECTIVE-5"
+    ],
+    "8": [
+      "COMP. ELECTIVE-2",
+      "ED  434",
+      "ED  444",
+      "ED  478",
+      "UNREST. ELECTIVE-6"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "HISTORY": {
+    "1": [
+      "ENGL111",
+      "HIST101",
+      "HIST105",
+      "MATH105",
+      "PSY 101/PHIL101/POLS 101",
+      "SOC 101"
+    ],
+    "2": [
+      "AE  112/LIT 212",
+      "EC  102",
+      "ENGL112",
+      "HIST102",
+      "HIST106",
+      "SCIENCE ELECTIVE"
+    ],
+    "3": [
+      "HIST209",
+      "HIST221/HIST231/HIST232/HIST213/HIST214",
+      "HIST241",
+      "MOD.LANG.ELEC.",
+      "TK  221",
+      "TKL 101"
+    ],
+    "4": [
+      "HIST210",
+      "HIST222",
+      "HIST242",
+      "MOD.LANG.ELECTIVE",
+      "TK  222",
+      "TKL 102"
+    ],
+    "5": [
+      "DEPT./COMP.ELEC.",
+      "HIST321",
+      "HIST335/HIST336",
+      "HTR 311",
+      "MOD.LANG.ELEC.",
+      "TKL 215"
+    ],
+    "6": [
+      "DEPT./COMP.ELEC.",
+      "HIST322",
+      "HIST-RESTRICTED ELECTIVE",
+      "HTR 312",
+      "MOD.LANG.ELEC.",
+      "TKL 216"
+    ],
+    "7": [
+      "DEPT./COMP. ELECTIVE",
+      "DEPT./COMP.ELEC.",
+      "HIST401",
+      "HIST495",
+      "UNREST ELECTIVE"
+    ],
+    "8": [
+      "DEPT./COMP.ELEC.",
+      "DEPT./COMP.ELECTIVE",
+      "HIST402",
+      "HIST496",
+      "UNREST ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "INDUSTRIAL ENGINEERING": {
+    "1": [
+      "AE  111-112 / 221-222-1",
+      "ENGG110",
+      "MATH101",
+      "MATH201",
+      "PHYS121"
+    ],
+    "2": [
+      "CHEM105",
+      "CMPE150",
+      "IE  120",
+      "MATH102",
+      "PHYS201"
+    ],
+    "3": [
+      "AD  216",
+      "EC  101",
+      "IE  201",
+      "IE  202",
+      "IE  255",
+      "TK  221"
+    ],
+    "4": [
+      "EC  102",
+      "IE  203",
+      "IE  220",
+      "IE  256",
+      "MATH202",
+      "TK  222"
+    ],
+    "5": [
+      "HSS ELECTIVE-1",
+      "HTR 311",
+      "IE  306",
+      "IE  312",
+      "IE  341"
+    ],
+    "6": [
+      "HSS ELECTIVE-2",
+      "HTR 312",
+      "IE  313",
+      "IE-DEPARTMENTAL ELECTIVE-1",
+      "IE-DEPARTMENTAL ELECTIVE-2",
+      "IE-SPECIALIZATION COURSE-1"
+    ],
+    "7": [
+      "COMPLEMENTARY ELECTIVE-1",
+      "IE  423",
+      "IE-DEPARTMENTAL ELECTIVE-3",
+      "IE-SPECIALIZATION COURSE-2",
+      "IE-SPECIALIZATION COURSE-3"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE-2",
+      "HSS ELECTIVE-3",
+      "IE  492",
+      "IE-DEPARTMENTAL ELECTIVE-4",
+      "UNRESTRICTED ELECTIVE-1"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "INFORMATION SYSTEMS ENGINEERING": {
+    "1": [
+      "ISE 100",
+      "ISE 101",
+      "ISEM191",
+      "ISEM193",
+      "ISEP195",
+      "ISET221"
+    ],
+    "2": [
+      "ISE 102",
+      "ISE 104",
+      "ISE 106",
+      "ISEM192",
+      "ISEP196",
+      "ISET222"
+    ],
+    "3": [],
+    "4": [],
+    "5": [
+      "ISE 301",
+      "ISE 303",
+      "ISE 305",
+      "ISE 307",
+      "ISE TECH.ELECTIVE",
+      "ISEH311"
+    ],
+    "6": [
+      "ISE 302",
+      "ISE 304",
+      "ISE 306",
+      "ISE TECH.ELECTIVE",
+      "ISE TECH.ELECTIVE1",
+      "ISEH312"
+    ],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "INTEGRATED BS&MS PROGRAM IN TEACHING CHEMISTRY": {
+    "1": [
+      "AE  111/HSS",
+      "CHEM103",
+      "CHEM107",
+      "MATH101",
+      "PHYS101",
+      "SCED103"
+    ],
+    "2": [
+      "AE  112/HSS",
+      "CHEM104",
+      "CHEM108",
+      "MATH102",
+      "PHYS130"
+    ],
+    "3": [
+      "BIO 101",
+      "CHEM245",
+      "CHEMISTRY ELECTIVE",
+      "ED  101",
+      "MATH201",
+      "TK  221"
+    ],
+    "4": [
+      "CHEM250",
+      "ENG 101",
+      "MATH202",
+      "PHYS201",
+      "TK  222"
+    ],
+    "5": [
+      "CHEM201",
+      "CHEM203",
+      "ED  211",
+      "ED  221",
+      "HTR 311",
+      "SCED350"
+    ],
+    "6": [
+      "AREA ELEC.",
+      "CHEM202",
+      "CHEM204",
+      "ED  282",
+      "HTR 312",
+      "SCED/ED/PRED/CET ELE"
+    ],
+    "7": [
+      "CET 360",
+      "CHEM353",
+      "ED  401",
+      "ENV.EL.(CE  222 OR ESC 301 OR CHEM471)",
+      "SCED320"
+    ],
+    "8": [
+      "AREA ELEC.",
+      "CHEMISTRY ELECTIVE",
+      "SCED/ED/PRED/CET ELE",
+      "SCED240",
+      "SCED370"
+    ],
+    "9": [
+      "PHIL/HIST. SC.",
+      "SCED404",
+      "SCED421",
+      "SCED450",
+      "UNR.ELEC."
+    ],
+    "10": [
+      "DEPARTMENTAL ELECTIVE",
+      "HSS ELEC.",
+      "SCED414",
+      "SCED422",
+      "UNR.ELEC."
+    ],
+    "11": [],
+    "12": []
+  },
+  "INTEGRATED BS&MS PROGRAM IN TEACHING MATHEMATICS": {
+    "1": [
+      "AE  111/HSS",
+      "MATH101",
+      "MATH111",
+      "PHYS101",
+      "SCED103"
+    ],
+    "2": [
+      "AE  112/HSS",
+      "ENG 101",
+      "MATH102",
+      "MATH162",
+      "PHYS130"
+    ],
+    "3": [
+      "ED  101",
+      "MATH201",
+      "MATH231",
+      "PHIL131",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "AREA ELECTIVE",
+      "HSS ELECTIVE",
+      "MATH202",
+      "MATH222",
+      "TK  222"
+    ],
+    "5": [
+      "AREA ELECTIVE",
+      "ED  211",
+      "ED  221",
+      "HTR 311",
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1"
+    ],
+    "6": [
+      "ED  282",
+      "HTR 312",
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1",
+      "SCED/ED/PRED/CET",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "7": [
+      "AREA ELECTIVE",
+      "CET 360",
+      "ED  401",
+      "MATH ELECTIVE",
+      "SCED320"
+    ],
+    "8": [
+      "MATH ELECTIVE",
+      "SCED/ED/CET/PRED EL.",
+      "SCED240",
+      "SCED370",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [
+      "AREA ELECTIVE",
+      "MATH ELECTIVE",
+      "SCED404",
+      "SCED431",
+      "SCED450"
+    ],
+    "10": [
+      "DEPARTMENTAL ELECTIVE",
+      "PHILOSOPHY/HISTORY OF SCIENCE ELECTIVE",
+      "SCED416",
+      "SCED432",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "11": [],
+    "12": []
+  },
+  "INTEGRATED BS&MS PROGRAM IN TEACHING PHYSICS": {
+    "1": [
+      "AE  111/HSS",
+      "CHEM103",
+      "MATH101",
+      "PHYS101",
+      "SCED103"
+    ],
+    "2": [
+      "AE  112/HSS",
+      "CHEM104",
+      "CHEM109",
+      "MATH102",
+      "PHYS102"
+    ],
+    "3": [
+      "ED  101",
+      "ENG 101",
+      "MATH201",
+      "PHYS201",
+      "PHYS225/PHYS221",
+      "TK  221"
+    ],
+    "4": [
+      "EE  210",
+      "HSS ELEC.",
+      "MATH202",
+      "PHYS202",
+      "TK  222",
+      "UNR.EL"
+    ],
+    "5": [
+      "ED  211",
+      "ED  221",
+      "HSS EL",
+      "HTR 311",
+      "PHYS301",
+      "PHYS407"
+    ],
+    "6": [
+      "AREA EL",
+      "ED  282",
+      "HTR 312",
+      "MATH ELEC.",
+      "PHYS302",
+      "PHYS408"
+    ],
+    "7": [
+      "CET 360",
+      "ED  401",
+      "ENVIRONMENTAL ELECTIVE",
+      "PHYS ELEC.",
+      "SCED320"
+    ],
+    "8": [
+      "AREA ELECTIVE",
+      "PHYS ELEC.",
+      "PHYS380",
+      "SCED340",
+      "SCED370"
+    ],
+    "9": [
+      "PHIL/HIST.SC. EL.",
+      "SCED/ED/PRED/CET",
+      "SCED404",
+      "SCED441",
+      "SCED450"
+    ],
+    "10": [
+      "DEPARTMENTAL ELECTIVE",
+      "PHYS ELEC.",
+      "SCED418",
+      "SCED442",
+      "UNR.ELEC."
+    ],
+    "11": [],
+    "12": []
+  },
+  "INTERNATIONAL TRADE": {
+    "1": [
+      "FOR LANG",
+      "HSS",
+      "INTT111",
+      "INTT121",
+      "INTT125",
+      "INTT191"
+    ],
+    "2": [
+      "FOR LANG",
+      "HSS",
+      "INTT112",
+      "INTT122",
+      "INTT132",
+      "INTT142"
+    ],
+    "3": [
+      "FOR LANG",
+      "INTT203",
+      "INTT211",
+      "INTT227",
+      "INTT241",
+      "INTT253",
+      "TK  221"
+    ],
+    "4": [
+      "FOR LANG",
+      "INTT204",
+      "INTT212",
+      "INTT228",
+      "INTT252",
+      "INTT276",
+      "TK  222"
+    ],
+    "5": [
+      "FOR LANG",
+      "HTR 311",
+      "INTT321",
+      "INTT331",
+      "INTT341",
+      "INTT358",
+      "INTT377"
+    ],
+    "6": [
+      "FOR LANG",
+      "HTR 312",
+      "INTT322",
+      "INTT323",
+      "INTT356",
+      "INTT362",
+      "INTT378"
+    ],
+    "7": [
+      "COMP",
+      "DPTE 1",
+      "INTT433",
+      "INTT459",
+      "INTT463",
+      "INTT465"
+    ],
+    "8": [
+      "DPTE 1",
+      "DPTE 2",
+      "INTT434",
+      "INTT452",
+      "INTT474",
+      "UNRE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "LINGUISTICS": {
+    "1": [
+      "AE  111/AE  2XX",
+      "HIST105/HUM 101",
+      "LING101",
+      "PHIL101",
+      "PSY 101"
+    ],
+    "2": [
+      "AE  112/AE  2XX",
+      "ENGL105",
+      "HIST106/HUM 102",
+      "LING102",
+      "LING104"
+    ],
+    "3": [
+      "FOREIGN LANGUAGE",
+      "LING201",
+      "LING203",
+      "MATHEMATICS/SCIENCE ELECTIVE",
+      "PHIL131",
+      "TK  221"
+    ],
+    "4": [
+      "FOREIGN LANGUAGE",
+      "LING202",
+      "LING206",
+      "MATHEMATICS/SCIENCE ELECTIVE",
+      "TK  222",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "5": [
+      "DEPARTMENTAL ELECTIVE",
+      "DEPARTMENTAL ELECTIVE 1",
+      "FOREIGN LANGUAGE",
+      "HTR 311",
+      "LING313",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "6": [
+      "DEPARTMENTAL ELECTIVE",
+      "DEPARTMENTAL ELECTIVE 1",
+      "FOREIGN LANGUAGE",
+      "HTR 312",
+      "LING314",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "7": [
+      "COMPLEMENTARY ELECTIVE",
+      "DEPARTMENTAL ELECTIVE",
+      "DEPARTMENTAL/COMPLEMENTARY ELECTIVE",
+      "LING411",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE",
+      "DEPARTMENTAL ELECTIVE",
+      "DEPARTMENTAL/COMPLEMENTARY ELECTIVE",
+      "LING412",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "MANAGEMENT": {
+    "1": [
+      "AD  102",
+      "EC  101",
+      "HUMANITIES/SOCIAL SCIENCES",
+      "MATH101",
+      "PSY 101",
+      "SOC 101"
+    ],
+    "2": [
+      "AD  131",
+      "EC  102",
+      "HUMANITIES/SOCIAL SCIENCES",
+      "MATH102",
+      "POLS101",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "3": [
+      "AD  213",
+      "AD  220",
+      "AD  231",
+      "AD  251",
+      "CMPE140",
+      "EC  203",
+      "TK  221"
+    ],
+    "4": [
+      "AD  204",
+      "AD  214",
+      "AD  242",
+      "AD  252",
+      "EC  205",
+      "TK  222",
+      "UNRETRICTED ELECTIVE"
+    ],
+    "5": [
+      "AD  311",
+      "AD  320",
+      "AD  351",
+      "HTR 311",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "6": [
+      "AD  302",
+      "AD  312",
+      "AD  353",
+      "DEPT. ELECTIVE",
+      "HTR 312",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "7": [
+      "AD  401",
+      "AD  452",
+      "AD  497",
+      "DEPT. ELECTIVE2",
+      "DEPT. ELECTIVE3"
+    ],
+    "8": [
+      "AD  408",
+      "AD  409",
+      "DEPT. ELECTIVE1",
+      "DEPT. ELECTIVE2",
+      "DEPT. ELECTIVE3"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "MANAGEMENT INFORMATION SYSTEMS": {
+    "1": [
+      "MIS 111",
+      "MIS 113",
+      "MIS 125",
+      "MIS 131",
+      "MIS 143",
+      "UNREST. ELECTIVE"
+    ],
+    "2": [
+      "MIS 112",
+      "MIS 116",
+      "MIS 132",
+      "MIS 134",
+      "MIS 144",
+      "UNREST. ELECTIVE"
+    ],
+    "3": [
+      "HSS",
+      "MIS 211",
+      "MIS 213",
+      "MIS 233",
+      "MIS 251",
+      "TK  221"
+    ],
+    "4": [
+      "HSS",
+      "MIS 212",
+      "MIS 224",
+      "MIS 228",
+      "MIS 252",
+      "TK  222"
+    ],
+    "5": [
+      "COMPLEMENTARY ELECTIVE",
+      "HTR 311",
+      "MIS 321",
+      "MIS 331",
+      "MIS 335",
+      "MIS 353"
+    ],
+    "6": [
+      "HTR 312",
+      "MIS 316",
+      "MIS 326",
+      "MIS 336",
+      "MIS 344",
+      "MIS 346"
+    ],
+    "7": [
+      "DEPARTMENTAL ELECTIVE",
+      "DEPARTMENTAL ELECTIVE 1/COMPLEMENTARY ELECTIVE",
+      "MIS 433",
+      "MIS 441",
+      "MIS 463",
+      "MIS 481"
+    ],
+    "8": [
+      "DEPARTMENTAL ELECTIVE",
+      "DEPARTMENTAL ELECTIVE 1",
+      "MIS 422",
+      "MIS 432",
+      "MIS 492"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "MATHEMATICS": {
+    "1": [
+      "AE  111/HSS/MLE",
+      "MATH111",
+      "MATH131",
+      "PHYS101",
+      "UNREST.ELECT."
+    ],
+    "2": [
+      "AE  112/HSS/MLE",
+      "MATH132",
+      "MATH162",
+      "PHYS102",
+      "UNREST.ELECT."
+    ],
+    "3": [
+      "CMPE150",
+      "MATH221",
+      "MATH231",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "HSS/MLE",
+      "MATH202",
+      "MATH222",
+      "MATH234",
+      "TK  222"
+    ],
+    "5": [
+      "HSS ELECTIVE",
+      "HTR 311",
+      "MATH323",
+      "MATH331",
+      "UNREST.ELECTIVE"
+    ],
+    "6": [
+      "HSS ELECTIVE",
+      "HTR 312",
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1",
+      "MATH338",
+      "SCIENCE ELECTIVE"
+    ],
+    "7": [
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1",
+      "SCIENCE ELECTIVE",
+      "UNREST.ELECTIVE",
+      "UNREST.ELECTIVE 1"
+    ],
+    "8": [
+      "HSS ELECTIVE",
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1",
+      "MATH ELECTIVE 2",
+      "UNREST.ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "MATHEMATICS AND SCIENCE EDUCATION": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "MECHANICAL ENGINEERING": {
+    "1": [
+      "CHEM105",
+      "CMPE150",
+      "EC  101",
+      "MATH101",
+      "PHYS101"
+    ],
+    "2": [
+      "EC  102",
+      "ENGG110",
+      "MATH102",
+      "ME  120",
+      "PHYS130"
+    ],
+    "3": [
+      "EE  210",
+      "MATH201",
+      "ME  207",
+      "ME  241",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "MATH202",
+      "ME  212",
+      "ME  242",
+      "ME  244",
+      "ME  263",
+      "TK  222"
+    ],
+    "5": [
+      "HSS ELEC.",
+      "HTR 311",
+      "ME  303",
+      "ME  324",
+      "ME  331",
+      "ME  353"
+    ],
+    "6": [
+      "HSS ELEC.-1",
+      "HTR 312",
+      "ME  304",
+      "ME  318",
+      "ME  335",
+      "ME  362"
+    ],
+    "7": [
+      "COMP. COURSE",
+      "COMP. COURSE 1",
+      "ME  424",
+      "ME  429",
+      "ME OPTION COURSE"
+    ],
+    "8": [
+      "COMP. COURSE",
+      "FREE ELECTIVE",
+      "ME  492",
+      "ME OPTION COURSE",
+      "ME OPTION COURSE1"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "MOLECULAR BIOLOGY & GENETICS": {
+    "1": [
+      "BIO 101",
+      "BIO 111",
+      "CHEM103",
+      "CHEM109",
+      "MATH101",
+      "PHYS101/PHYS121"
+    ],
+    "2": [
+      "BIO 102",
+      "BIO 106",
+      "CHEM104",
+      "HSS",
+      "MATH102",
+      "PHYS130/PHYS102"
+    ],
+    "3": [
+      "BIO 201",
+      "BIO 203/MATH344",
+      "CHEM203",
+      "CHEM221",
+      "HIST105/HUM 101",
+      "PHYS201/PHYS202",
+      "TK  221"
+    ],
+    "4": [
+      "BIO 252",
+      "BIO 254",
+      "COMPUTER ELECTIVE",
+      "HIST106/HUM 102",
+      "MATH201",
+      "TK  222"
+    ],
+    "5": [
+      "BIO 301",
+      "BIO 331",
+      "BIO 333",
+      "BIO 353",
+      "BIO 355",
+      "HTR 311"
+    ],
+    "6": [
+      "BIO 302",
+      "BIO 308",
+      "BIO 310",
+      "BIO 322",
+      "BIO 342",
+      "HSS ELECTIVE",
+      "HTR 312"
+    ],
+    "7": [
+      "BIO 403",
+      "BIO 407",
+      "COMP/DEPT. ELECTIVE",
+      "DEPT. ELECTIVE",
+      "UNRESTRICTED ELEC.",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "8": [
+      "COMP/DEPT.ELECTIVE",
+      "DEPT.ELECTIVE",
+      "DEPT.ELECTIVE 1",
+      "HSS ELECTIVE",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "PHILOSOPHY": {
+    "1": [
+      "AE  261/LL",
+      "PHIL101",
+      "PHIL105",
+      "PHIL131",
+      "SOCIAL SCIENCE ELECTIVE"
+    ],
+    "2": [
+      "AE  262/LL",
+      "MATH ELECTIVE",
+      "PHIL106",
+      "PHIL132",
+      "SOCIAL SCIENCE ELECTIVE"
+    ],
+    "3": [
+      "PHIL213",
+      "PHIL273",
+      "SCIENCE ELECTIVE",
+      "TK  221",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "4": [
+      "PHIL214",
+      "PHIL222",
+      "SCIENCE ELECTIVE",
+      "TK  222",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "5": [
+      "HTR 311",
+      "PHIL ELECTIVE",
+      "PHIL313",
+      "PHIL341",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "6": [
+      "HTR 312",
+      "PHIL ELECTIVE",
+      "PHIL314",
+      "PHIL382",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "7": [
+      "PHIL ELECTIVE",
+      "PHIL ELECTIVE 1",
+      "PHIL ELECTIVE 2",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "8": [
+      "PHIL ELECTIVE",
+      "PHIL ELECTIVE 1",
+      "PHIL ELECTIVE 2",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE 1"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "PHYSICS": {
+    "1": [
+      "CHEM105",
+      "MATH101",
+      "PHYS101",
+      "SPECIFIED ENGLISH ELECTIVE-1"
+    ],
+    "2": [
+      "MATH102",
+      "PHYS102",
+      "SCI.ELE.",
+      "SPECIFIED ENGLISH ELECTIVE-2"
+    ],
+    "3": [
+      "EC  101",
+      "HSS",
+      "MATH201",
+      "PHYS201",
+      "PHYS221",
+      "TK  221"
+    ],
+    "4": [
+      "EC  102",
+      "EE  210",
+      "HSS",
+      "MATH202",
+      "PHYS202",
+      "TK  222"
+    ],
+    "5": [
+      "HTR 311",
+      "PHYS301",
+      "PHYS311",
+      "PHYS325",
+      "PHYS331",
+      "UNREST."
+    ],
+    "6": [
+      "HTR 312",
+      "PHYS302",
+      "PHYS312",
+      "PHYS326",
+      "PHYS442",
+      "UNREST."
+    ],
+    "7": [
+      "PHYS401",
+      "PHYS411",
+      "PHYS421",
+      "PHYS443",
+      "UNREST."
+    ],
+    "8": [
+      "DEPT.ELEC.",
+      "PHYS402",
+      "PHYS412",
+      "UNREST.1",
+      "UNREST.2"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "POLITICAL SCIENCE&INTERNATIONAL RELATIONS": {
+    "1": [
+      "AD  131",
+      "EC  101",
+      "HSS ELECTIVE",
+      "MATH105",
+      "POLS101",
+      "SOC 101"
+    ],
+    "2": [
+      "EC  102",
+      "HSS ELECTIVE",
+      "MATH106",
+      "POLS102",
+      "PSY 101",
+      "SOC 108"
+    ],
+    "3": [
+      "COMPLEMENTARY ELECTIVE",
+      "POLS201",
+      "POLS203",
+      "POLS215",
+      "POLS217",
+      "TK  221"
+    ],
+    "4": [
+      "POLS202",
+      "POLS206",
+      "POLS242",
+      "POLS246",
+      "TK  222",
+      "UNRESTRICTED ELECTIV"
+    ],
+    "5": [
+      "COMPLEMENTARY ELECTIVE",
+      "DEPT.ELEC.",
+      "DEPT.ELEC.1",
+      "HTR 311",
+      "POLS303",
+      "UNRESTRICTED ELECTIV"
+    ],
+    "6": [
+      "COMPLEMENTARY ELECTIVE",
+      "DEPT. ELECTIVE1",
+      "DEPT.ELEC.",
+      "DEPT.ELECTIVE2",
+      "HTR 312",
+      "POLS340"
+    ],
+    "7": [
+      "COMPLEMENTARY ELECTIVE",
+      "DEPT.ELECTIVE1",
+      "DEPT.ELECTIVE2",
+      "DEPT.ELECTIVE3",
+      "UNRESTRICTED ELECTIV"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE",
+      "DEPT.ELECTIVE",
+      "DEPT.ELECTIVE1",
+      "POLS472",
+      "UNRESTRICTED ELECTIV"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "PSYCHOLOGY": {
+    "1": [
+      "AE 111/HUM/AE 2XX/UNREST.ELECT.",
+      "HIST105",
+      "MATH105",
+      "PHIL101",
+      "PSY 111",
+      "SOC 101"
+    ],
+    "2": [
+      "AE 112/HUM/AE 2XX/UNREST.ELECT.",
+      "BIO 152",
+      "HIST106",
+      "MATH106",
+      "PSY 100",
+      "PSY 112"
+    ],
+    "3": [
+      "EC  101/EC  102",
+      "HUM/AE 2XX/UNREST.ELECT.",
+      "PSY 201",
+      "PSY-DEPARTMENT ELECTIVE-1",
+      "PSY-DEPARTMENT ELECTIVE-2",
+      "TK  221"
+    ],
+    "4": [
+      "HUM/AE 2XX/UNREST.ELECT.",
+      "PSY 202",
+      "PSY-DEPARTMENT ELECTIVE-3",
+      "PSY-DEPARTMENT ELECTIVE-4",
+      "TK  222"
+    ],
+    "5": [
+      "HTR 311",
+      "PSY 301",
+      "PSY-DEPARTMENT ELECTIVE-5",
+      "PSY-DEPARTMENT ELECTIVE-6",
+      "UNRESTRICTED ELECTIVE-1",
+      "UNRESTRICTED ELECTIVE-2"
+    ],
+    "6": [
+      "HTR 312",
+      "PSY 304",
+      "PSY-DEPARTMENT ELECTIVE-7",
+      "UNRESTRICTED ELECTIVE-3",
+      "UNRESTRICTED ELECTIVE-4",
+      "UNRESTRICTED ELECTIVE-5"
+    ],
+    "7": [
+      "PSY-DEPARTMENT ELECTIVE-8",
+      "UNRESTRICTED ELECTIVE-6",
+      "UNRESTRICTED ELECTIVE-7",
+      "UNRESTRICTED ELECTIVE-8",
+      "UNRESTRICTED ELECTIVE-9"
+    ],
+    "8": [
+      "PSY 411",
+      "UNRESTRICTED ELECTIVE-10",
+      "UNRESTRICTED ELECTIVE-11",
+      "UNRESTRICTED ELECTIVE-12",
+      "UNRESTRICTED ELECTIVE-13"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "SOCIOLOGY": {
+    "1": [
+      "AE  111/LIT",
+      "EC  101",
+      "HUM ELEC.I",
+      "MATH105/106",
+      "POLS101",
+      "SOC 101"
+    ],
+    "2": [
+      "AE  112/LIT",
+      "EC  102",
+      "HUM ELEC.II",
+      "MATH/SCI.ELECTIVE",
+      "PSY 101",
+      "SOC 108"
+    ],
+    "3": [
+      "DEPT/COMP ELEC.",
+      "DEPT/COMP.ELEC.",
+      "SOC 221",
+      "SOC 281",
+      "TK  221",
+      "UNRES1"
+    ],
+    "4": [
+      "DEPT/COMP ELEC.",
+      "SOC 204",
+      "SOC 224/262",
+      "SOC 282/284/286/272",
+      "TK  222",
+      "UNRES2"
+    ],
+    "5": [
+      "COMP.ELEC.",
+      "DPT/COMP.ELEC.",
+      "HTR 311",
+      "SOC 303",
+      "SOC 371",
+      "UNRES3"
+    ],
+    "6": [
+      "COMP.ELEC.",
+      "DEPT/COMP ELEC.",
+      "HTR 312",
+      "SOC 304/306",
+      "SOC 324",
+      "UNRES4"
+    ],
+    "7": [
+      "DEPT/COMP",
+      "SOC 471/DPT.ELEC.",
+      "SOC DEPT. ELEC.1",
+      "SOC DEPT. ELEC.2",
+      "UNRES5"
+    ],
+    "8": [
+      "DEPT. ELEC",
+      "DEPT1/COMP",
+      "DEPT2/COMP.",
+      "SOC 472",
+      "UNRES6"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TEACHING CHEMISTRY": {
+    "1": [
+      "AE  111/HSS",
+      "CHEM101",
+      "MATH101",
+      "PHYS101",
+      "SCED271"
+    ],
+    "2": [
+      "AE  112/HSS",
+      "CHEM102",
+      "MATH102",
+      "PHYS130",
+      "SCED272"
+    ],
+    "3": [
+      "CHEM231",
+      "CHEM233",
+      "ED  101",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "CHEM232",
+      "CHEM234",
+      "ED  104",
+      "ENG 101",
+      "MATH202",
+      "TK  222"
+    ],
+    "5": [
+      "CHEM201",
+      "CHEM203",
+      "ED  213",
+      "ED  221",
+      "HTR 311",
+      "UNR.ELEC."
+    ],
+    "6": [
+      "CET 360",
+      "CHEM202",
+      "CHEM204",
+      "ED  262",
+      "HTR 312",
+      "UNR.ELEC."
+    ],
+    "7": [
+      "CET 201",
+      "CHEM ELEC.",
+      "CHEM301",
+      "CHEM303",
+      "SCED ELEC.",
+      "SCED421"
+    ],
+    "8": [
+      "AREA ELEC.",
+      "CHEM ELEC.",
+      "CHEM302",
+      "CHEM304",
+      "ED  452",
+      "SCED414",
+      "SCED422"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TEACHING CHEMISTRY PR.": {
+    "1": [
+      "AE 111/AE 112/ ADVANCED ENG.I/II OR HSS ELECTIVE",
+      "CHEM103",
+      "CHEM107",
+      "MATH101",
+      "PHYS101"
+    ],
+    "2": [
+      "CHEM104",
+      "CHEM108",
+      "ED  101",
+      "MATH102",
+      "PHYS130"
+    ],
+    "3": [
+      "BIO 101",
+      "CHEM245",
+      "ED  211",
+      "HSS ELECTIVE",
+      "MATH201",
+      "TK  221"
+    ],
+    "4": [
+      "CHEM250",
+      "COMPLEMENTARY ELECTIVE",
+      "ED  282",
+      "PHYS201",
+      "SCED240",
+      "TK  222"
+    ],
+    "5": [
+      "CHEM201",
+      "CHEM203",
+      "ED  221",
+      "HTR 311",
+      "SCED320",
+      "SCED350"
+    ],
+    "6": [
+      "CET 360",
+      "CHEM202",
+      "CHEM204",
+      "COMPLEMENTARY ELECTIVE",
+      "HTR 312",
+      "SCED370",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "7": [
+      "CHEM353",
+      "ED  401",
+      "SCED404",
+      "SCED421",
+      "SCED450"
+    ],
+    "8": [
+      "CHEMISTRY ELECTIVE",
+      "ENVIRONMENTAL SCIENCE ELECTIVE",
+      "PHILOSOPHY OF SCIENCE/HISTORY OF SCIENCE ELECTIVE",
+      "SCED414",
+      "SCED422"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TEACHING MATHEMATICS": {
+    "1": [
+      "AE  111/HSS",
+      "MATH101",
+      "MATH111",
+      "PHYS101",
+      "SCED271"
+    ],
+    "2": [
+      "AE  112/HSS",
+      "MATH102",
+      "MATH162",
+      "PHYS130",
+      "SCED272"
+    ],
+    "3": [
+      "CMPE 150/ENG 101",
+      "ED  101",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "ED  104",
+      "MATH202",
+      "MATH232",
+      "TK  222",
+      "UNR.ELEC."
+    ],
+    "5": [
+      "ED  213",
+      "ED  221",
+      "ED  301",
+      "HTR 311",
+      "MATH/ELEC.",
+      "MATH321"
+    ],
+    "6": [
+      "CET 360",
+      "ED  262",
+      "ED  302",
+      "HTR 312",
+      "MATH/343/344"
+    ],
+    "7": [
+      "CET 201",
+      "HSS ELEC.",
+      "MATH/ELEC.",
+      "SCED431",
+      "UNREST.ELEC."
+    ],
+    "8": [
+      "AREA/ELEC.",
+      "ED  452",
+      "MATH/ELEC.",
+      "SCED416",
+      "SCED432"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TEACHING MATHEMATICS PR.": {
+    "1": [
+      "AE 111/AE 112/HSS ADVANCED ENG.I/II OR HSS ELECTIV",
+      "MATH101",
+      "MATH111",
+      "PHIL131",
+      "PHYS101"
+    ],
+    "2": [
+      "ED  101",
+      "HSS ELECTIVE",
+      "MATH102",
+      "MATH162",
+      "PHYS130"
+    ],
+    "3": [
+      "ED  211",
+      "MATH201",
+      "MATH231",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "ED  282",
+      "MATH202",
+      "MATH222",
+      "SCED240",
+      "TK  222",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "5": [
+      "ED  221",
+      "HTR 311",
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1",
+      "MATH ELECTIVE 2",
+      "SCED320"
+    ],
+    "6": [
+      "CET 360",
+      "HTR 312",
+      "MATH ELECTIVE",
+      "MATH ELECTIVE 1",
+      "SCED352",
+      "SCED370"
+    ],
+    "7": [
+      "COMPLEMENTARY ELECTIVE",
+      "ED  401",
+      "SCED404",
+      "SCED431",
+      "SCED450"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE",
+      "PHILOSOPHY OF SCIENCE/HISTORY OF SCIENCE ELECTIVE",
+      "SCED416",
+      "SCED432",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TEACHING PHYSICS": {
+    "1": [
+      "AE  111/HSS",
+      "CHEM101",
+      "MATH101",
+      "PHYS101",
+      "SCED271"
+    ],
+    "2": [
+      "AE  112/HSS",
+      "CHEM102",
+      "MATH102",
+      "PHYS102",
+      "SCED272"
+    ],
+    "3": [
+      "CMPE150/ENG 101",
+      "ED  101",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "ED  104",
+      "EE  210",
+      "MATH202",
+      "PHYS202",
+      "TK  222"
+    ],
+    "5": [
+      "ED  213",
+      "ED  221",
+      "HTR 311",
+      "PHYS301",
+      "PHYS331",
+      "UNREST.ELEC."
+    ],
+    "6": [
+      "AREA/ELEC.",
+      "CET 360",
+      "ED  262",
+      "HTR 312",
+      "MATH343/344"
+    ],
+    "7": [
+      "AREA/EL",
+      "CET 201",
+      "PHYS221",
+      "PHYS407",
+      "SCED441"
+    ],
+    "8": [
+      "ED  452",
+      "PHYS408",
+      "PHYS482/380",
+      "SCED418",
+      "SCED442"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TEACHING PHYSICS PR.": {
+    "1": [
+      "AE 111/AE 112/HSS ADVANCED ENG.I/II OR HSS ELECTIV",
+      "CHEM103",
+      "ED  101",
+      "MATH101",
+      "PHYS101"
+    ],
+    "2": [
+      "CHEM104",
+      "CHEM109",
+      "COMPLEMENTARY ELECTIVE",
+      "MATH102",
+      "PHYS102"
+    ],
+    "3": [
+      "ED  211",
+      "ED  221",
+      "MATH201",
+      "PHYS201",
+      "PHYS221/PHYS225",
+      "TK  221"
+    ],
+    "4": [
+      "ED  282",
+      "HSS ELECTIVE",
+      "MATH202",
+      "PHYS202",
+      "SCED240",
+      "TK  222"
+    ],
+    "5": [
+      "HTR 311",
+      "PHYS301",
+      "PHYS407",
+      "SCED320",
+      "SCED350"
+    ],
+    "6": [
+      "CET 360",
+      "HTR 312",
+      "PHYS302",
+      "PHYS380",
+      "PHYS408",
+      "SCED370"
+    ],
+    "7": [
+      "ED  401",
+      "PHYSICS ELECTIVE",
+      "SCED404",
+      "SCED441",
+      "SCED450",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE",
+      "ENVIRONMENTAL SCIENCE ELECTIVE",
+      "PHILOSOPHY OF SCIENCE/HISTORY OF SCIENCE ELECTIVE",
+      "SCED418",
+      "SCED442"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TOURISM ADMINISTRATION": {
+    "1": [
+      "DEPT/HSS/COMP ELECTIVE",
+      "TRM 101",
+      "TRM 107",
+      "TRM 111",
+      "TRM 141",
+      "TRM 151"
+    ],
+    "2": [
+      "DEPT/HSS/COMP ELECTIVE",
+      "TRM 104",
+      "TRM 108",
+      "TRM 112",
+      "TRM 124",
+      "TRM 134"
+    ],
+    "3": [
+      "FOREIGN LANGUAGE",
+      "TK  221",
+      "TRM 223",
+      "TRM 231",
+      "TRM 241",
+      "TRM 257",
+      "TRM 263"
+    ],
+    "4": [
+      "FOREIGN LANGUAGE",
+      "TK  222",
+      "TRM 224",
+      "TRM 232",
+      "TRM 242",
+      "TRM 258",
+      "TRM 282"
+    ],
+    "5": [
+      "DEPT ELECTIVE",
+      "FOREIGN LANGUAGE",
+      "HTR 311",
+      "TRM 331",
+      "TRM 335",
+      "TRM 355"
+    ],
+    "6": [
+      "DEPT ELECTIVE",
+      "FOREIGN LANGUAGE",
+      "HTR 312",
+      "TRM 336",
+      "TRM 364",
+      "TRM 378"
+    ],
+    "7": [
+      "COMP ELECTIVE",
+      "DEPT ELECTIVE",
+      "TRM 405",
+      "TRM 409",
+      "TRM 413"
+    ],
+    "8": [
+      "COMP ELECTIVE",
+      "DEPT ELECTIVE",
+      "TRM 408",
+      "TRM 472",
+      "TRM 492"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TRANSLATION & INTERPRETING": {
+    "1": [
+      "FR/GER",
+      "PSY 101/SOC 101/PHIL",
+      "TR  101",
+      "TR  103",
+      "TR  105",
+      "TR  107"
+    ],
+    "2": [
+      "FR/GER",
+      "LING111",
+      "TR  102",
+      "TR  104",
+      "TR  116",
+      "TR  122"
+    ],
+    "3": [
+      "DEPT.ELECT.",
+      "EL  101",
+      "FR/GER",
+      "TR  201",
+      "TR  213",
+      "TR  215",
+      "TR  221"
+    ],
+    "4": [
+      "DEPT.ELECT.",
+      "EC  102",
+      "EL  102",
+      "FR/GER",
+      "TR  202/TR  204",
+      "TR  214",
+      "TR  216"
+    ],
+    "5": [
+      "FR/GER",
+      "HTR 311",
+      "INT 311",
+      "INT 313",
+      "LING321",
+      "POLS101",
+      "TR  317"
+    ],
+    "6": [
+      "FR/GER",
+      "HIST/PHIL/SOC/PSY",
+      "HTR 312",
+      "INT 316",
+      "INT 318/TR  320",
+      "TR  314",
+      "TR  364"
+    ],
+    "7": [
+      "DEPT.ELECT.INT 411",
+      "FR/GER",
+      "TR  415/INT 415",
+      "TR  417/INT 417",
+      "TR  419",
+      "UNREST.ELECT./INT 413"
+    ],
+    "8": [
+      "DEPART./UNREST1.ELECT.",
+      "FR/GER",
+      "INT 412/UNREST.ELECT.",
+      "INT 418/UNREST.ELECT.",
+      "TR  412/TR  414",
+      "TR  416/INT 416",
+      "TR  420/INT 420"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TRANSLATION AND INTERPRETING STUDIES": {
+    "1": [
+      "HIST105/HUM 101",
+      "LANGUAGE ELECTIVE-1",
+      "SOC 101/PSY 101/PHIL101",
+      "TR  109",
+      "TR  111"
+    ],
+    "2": [
+      "HIST106/HUM 102",
+      "LANGUAGE ELECTIVE-2",
+      "LING101",
+      "TR  106",
+      "TR  108",
+      "TR  110"
+    ],
+    "3": [
+      "ENGL105",
+      "LANGUAGE ELECTIVE-3",
+      "SCIENCE ELECTIVE-1",
+      "TR  203",
+      "TR  215",
+      "TR-DEPARTMENTAL ELECTIVE-1"
+    ],
+    "4": [
+      "ENGL106",
+      "HSS ELECTIVE-1",
+      "INT 202",
+      "LANGUAGE ELECTIVE-4",
+      "SCIENCE ELECTIVE-2",
+      "TR-DEPARTMENTAL ELECTIVE-2"
+    ],
+    "5": [
+      "HTR 311",
+      "INT 301",
+      "LANGUAGE ELECTIVE-5",
+      "POLS101",
+      "TR  301",
+      "TR-DEPARTMENTAL ELECTIVE-3"
+    ],
+    "6": [
+      "DEPARTMENTAL ELECTIVE-1",
+      "HSS ELECTIVE-2",
+      "HTR 312",
+      "LANGUAGE ELECTIVE-6",
+      "TR  314",
+      "TR  316",
+      "TR  318"
+    ],
+    "7": [
+      "INT 415/TR DEPT.ELECTIVE",
+      "INT 417/TR DEPT.ELECTIVE",
+      "INT 419/TR  427",
+      "LANGUAGE ELECTIVE-7",
+      "TR  401",
+      "UNRESTRICTED ELECTIVE",
+      "UNRESTRICTED ELECTIVE/HSS ELECTIVE"
+    ],
+    "8": [
+      "INT 412/TR DEPT.ELECTIVE",
+      "INT 416/TR DEPT.ELECTIVE",
+      "INT 418/HSS ELECTIVE",
+      "INT 420/TR  428",
+      "LANGUAGE ELECTIVE-8",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "TURKISH LANGUAGE & LITERATURE": {
+    "1": [
+      "HSS ELECTICE/AE  111",
+      "LING101",
+      "TKL 101",
+      "TKL 103",
+      "TKL 107"
+    ],
+    "2": [
+      "HSS ELECT.",
+      "HSS ELECTIVE/AE  112",
+      "TKL 102",
+      "TKL 104",
+      "TKL 108"
+    ],
+    "3": [
+      "HIST235",
+      "PHIL111",
+      "TKL 201",
+      "TKL 204",
+      "TKL 211",
+      "TKL 213"
+    ],
+    "4": [
+      "COMP. ELECTIVE",
+      "PHIL112",
+      "TKL 205",
+      "TKL 212",
+      "TKL 214",
+      "TKL 217"
+    ],
+    "5": [
+      "HSS ELECT.",
+      "HTR 311",
+      "SCI.ELECT.",
+      "TKL 301",
+      "TKL 309",
+      "TKL 311",
+      "TKL 313"
+    ],
+    "6": [
+      "HTR 312",
+      "LING314",
+      "SCI.ELECT.",
+      "TKL 302",
+      "TKL 312",
+      "TKL 314"
+    ],
+    "7": [
+      "DEPT.ELECT.",
+      "TKL 409",
+      "TKL 414",
+      "TKL 433",
+      "UNRESTRICTED ELEC.",
+      "UNRESTRICTED1"
+    ],
+    "8": [
+      "DEPT.ELECT.",
+      "DEPT.ELECTIVE",
+      "HSS ELECTIVE",
+      "TKL 434",
+      "UNRESTRICTED 1",
+      "UNRESTRICTED ELEC."
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "UNDERGRADUATE PROGRAM IN MATHEMATICS EDUCATION": {
+    "1": [
+      "ED  101",
+      "HSS/AE  111",
+      "MATH101",
+      "MATH111",
+      "PHYS101"
+    ],
+    "2": [
+      "COMP/AE  112",
+      "ENG 101",
+      "MATH102",
+      "PHYS102",
+      "SCED120"
+    ],
+    "3": [
+      "ED  211",
+      "ED  221",
+      "MATH201",
+      "PHYS201",
+      "TK  221",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "4": [
+      "ED  282",
+      "HSS ELECTIVE",
+      "MATH202",
+      "SPECIFIED ELECTIVE",
+      "TK  222"
+    ],
+    "5": [
+      "COMPLEMENTARY ELECTIVE-1",
+      "COMPLEMENTARY ELECTIVE-2",
+      "HTR 311",
+      "PRED310",
+      "SCED320",
+      "SCED362"
+    ],
+    "6": [
+      "CET 360",
+      "COMPLEMENTARY ELECTIVE",
+      "HTR 312",
+      "SCED348",
+      "SCED354",
+      "SCED372"
+    ],
+    "7": [
+      "ED  401",
+      "SCED370",
+      "SCED404",
+      "SCED450",
+      "SCED470"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE",
+      "SCED416",
+      "SCED432",
+      "SCED444",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "UNDERGRADUATE PROGRAM IN PRESCHOOL EDUCATION": {
+    "1": [
+      "AE  111/201",
+      "PRED101",
+      "PRED103",
+      "PRED107",
+      "PRED120",
+      "UNRESTRICTED ELECTIVE-1"
+    ],
+    "2": [
+      "AE  112/202",
+      "ED  101",
+      "PRED102",
+      "PRED104",
+      "PSY 101"
+    ],
+    "3": [
+      "ED  211",
+      "ED  221",
+      "HSS ELECTIVE-1",
+      "PRED211",
+      "SOC 101",
+      "TK  221"
+    ],
+    "4": [
+      "PRED210",
+      "PRED212",
+      "PRED214",
+      "PRED218",
+      "PRED234",
+      "TK  222"
+    ],
+    "5": [
+      "HSS ELECTIVE-2",
+      "HTR 311",
+      "PRED313",
+      "PRED317",
+      "PRED325",
+      "PRED331",
+      "PRED348"
+    ],
+    "6": [
+      "HTR 312",
+      "PRED320",
+      "PRED321",
+      "PRED332",
+      "PRED380",
+      "UNRESTRICTED ELECTIVE-2"
+    ],
+    "7": [
+      "DEPARTMENTAL ELECTIVE-1",
+      "PRED411",
+      "PRED413",
+      "PRED420",
+      "PRED423"
+    ],
+    "8": [
+      "PRED414",
+      "PRED416",
+      "PRED422",
+      "PRED424"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "UNDERGRADUATE PROGRAM IN SCIENCE EDUCATION": {
+    "1": [
+      "AE  111/ HSS ELECTIVE",
+      "ED  101",
+      "MATH101",
+      "PHYS101",
+      "SCED120"
+    ],
+    "2": [
+      "AE  112/ COMPLEMENTARY ELECTIVE",
+      "ENG 101",
+      "HSS ELECTIVE",
+      "MATH102",
+      "PHYS102"
+    ],
+    "3": [
+      "BIO 101",
+      "CHEM103",
+      "ED  211",
+      "MATH201",
+      "PHYS201",
+      "TK  221"
+    ],
+    "4": [
+      "BIO 102",
+      "BIO 106",
+      "CHEM104",
+      "CHEM109",
+      "ESC 301",
+      "SCED282",
+      "TK  222"
+    ],
+    "5": [
+      "BIO 201",
+      "ED  221",
+      "HSS ELECTIVE",
+      "HTR 311",
+      "PRED310",
+      "SCED351"
+    ],
+    "6": [
+      "CET 360",
+      "HTR 312",
+      "SCED320",
+      "SCED348",
+      "SCED370",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "7": [
+      "COMPLEMENTARY ELECTIVE",
+      "ED  401",
+      "SCED404",
+      "SCED450",
+      "SCED461"
+    ],
+    "8": [
+      "COMPLEMENTARY ELECTIVE",
+      "SCED444",
+      "SCED462",
+      "SCED464",
+      "UNRESTRICTED ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  },
+  "WESTERN LANGUAGES & LITERATURES": {
+    "1": [
+      "EL  101",
+      "ENGL105",
+      "ENGL111",
+      "HUM 101",
+      "PSY 101"
+    ],
+    "2": [
+      "CL  104",
+      "EL  102",
+      "ENGL106",
+      "HUM 102",
+      "LING101"
+    ],
+    "3": [
+      "CL  205",
+      "EL  201",
+      "PHIL111",
+      "SCIENCE ELECTIVE",
+      "TK  221",
+      "UNREST. ELECTIVE"
+    ],
+    "4": [
+      "CL  206",
+      "EL  202",
+      "HSS ELECTIVE",
+      "PHIL 112",
+      "SCIENCE ELECTIVE",
+      "TK  222"
+    ],
+    "5": [
+      "AL  311",
+      "CL  307",
+      "DEPT.ELECTIVE",
+      "EL  303",
+      "HIST ELEC.",
+      "HSS",
+      "HTR 311"
+    ],
+    "6": [
+      "AL  312",
+      "DEPT.ELECTIVE",
+      "EL  305",
+      "EL  306",
+      "HIST ELECTIVE",
+      "HTR 312",
+      "UNREST.ELECTIVE"
+    ],
+    "7": [
+      "DEPT. ELECTIVE",
+      "DEPT.ELECTIVE",
+      "DRA 403",
+      "EL  405",
+      "HSS ELECTIVE"
+    ],
+    "8": [
+      "DEPT.ELECTIVE",
+      "EL  402",
+      "EL  408",
+      "EL  412",
+      "HSS ELECTIVE"
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": []
+  }
+}]
