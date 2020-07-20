@@ -54,6 +54,6 @@ for donem in donems:
             }
             courses[abbreviation] = temp_dict
 #            courses.append(temp_dict)
-    with open(f"{donem.replace('/','-')}.json","w+",encoding="utf8") as file:
+    with open(f"src/{donem.replace('/','-')}.json","w+",encoding="utf8") as file:
             file.write("["+json.dumps(courses,indent=2)+"]")
             file.close()
