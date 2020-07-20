@@ -1,12 +1,11 @@
-
+import {updateDropDown} from "./Modules/MustCourses.js";
 import { updateGrid, clearGrid } from "./Modules/DisplayedTable.js";
 var courseJson;
 var courses;
-$.getJSON("2019-2020-2.json", function (data) {
+$.getJSON("src/2019-2020-2.json", function (data) {
   courseJson = data[0];
   courses = Object.keys(courseJson);
 });
-var backup_of_course_table_array;
 var totalCredit = 0;
 export { courseJson, totalCredit, totalCreditElement };
 
@@ -26,7 +25,6 @@ var colors = [
   "#FFDC00",
   "#FF851B",
   "#FF4136",
-  "#F012BE",
   "#AAAAAA",
   "#DDDDDD",
 ];
@@ -72,6 +70,6 @@ Object.values(rows_array).forEach((rows) => {
   });
   course_table_array.push(temp);
 });
-backup_of_course_table_array = [...course_table_array];
 
 export { course_table_array };
+
