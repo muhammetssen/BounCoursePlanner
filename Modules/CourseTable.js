@@ -6,6 +6,7 @@ import {
   course_table_array,
   remove_from_array,
 } from "../Main.js";
+import { coloring } from "./MustCourses.js";
 import { updateGrid } from "./DisplayedTable.js";
 function add_to_table(abbreviation, caller_element = "Button") {
   if (added_courses.indexOf(abbreviation) != -1 && caller_element != "Button") {
@@ -14,6 +15,7 @@ function add_to_table(abbreviation, caller_element = "Button") {
   var className = "CourseTable";
   if (caller_element == "Button") {
     document.getElementById(abbreviation).className = "AddedByButton";
+    coloring(abbreviation, true);
     updateGrid();
   }
   Credit_List(abbreviation, true);
@@ -37,9 +39,6 @@ function add_to_table(abbreviation, caller_element = "Button") {
     for (var j = 0; j < current_day_hours.length; j++) {
       var slot = current_day_hours[j];
       var column = i + 1;
-      console.log(slot);
-      console.log(column);
-      
       var selected_slot = course_table_array[slot][column]; //= abbreviation;
       var newSpan = document.createElement("div");
       var className = "CourseTable";
@@ -52,7 +51,7 @@ function add_to_table(abbreviation, caller_element = "Button") {
         abbreviation + "<br>" + (place == undefined ? "" : place);
       newSpan.style.backgroundColor = color;
       //newSpan.style.position = "absolute";
-      newSpan.id = "MerveKutusu";
+      newSpan.id = "CourseInfo";
       newSpan.style.fontSize = "small";
       selected_slot.appendChild(newSpan);
     }
@@ -68,8 +67,9 @@ function remove_from_table(abbreviation, caller_element = "Button") {
   }
   remove_from_array(added_courses, abbreviation);
   Credit_List(abbreviation, false);
-  if(caller_element == "Button"){
+  if (caller_element == "Button") {
     updateGrid();
+    coloring(abbreviation, false);
   }
   document.getElementById(abbreviation).value = "Add";
   var className = "CourseTable";
@@ -77,7 +77,6 @@ function remove_from_table(abbreviation, caller_element = "Button") {
     className = "Hover" + className;
   }
   var list = document.getElementsByClassName(className + abbreviation);
-
   var count = list.length;
   for (var i = 0; i < count; i++) {
     var elementToBeRemoved = list[0];
