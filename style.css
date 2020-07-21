@@ -1,6 +1,10 @@
 html,
 body {
   height: 100%;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   
 }
 body {
@@ -83,7 +87,7 @@ body {
 
 #course_table {
   table-layout: fixed;
-  position: static;
+  
   margin: 5px 0px 5px 5px;
   border-spacing: 0;
   width: 80%;
@@ -100,14 +104,13 @@ body {
   background-color: #fff;
 }
 #credits {
-  display: inline-block;
-  right: 2%;
-  position: absolute;
-  top: 2%;
+  display: inline-block; 
+  position: static;
   width: 15%;
+  background-color: gray;
+
   list-style-type: none;
   min-width: 200px;
-  /* overflow: auto; */
   max-height: 100%;
 }
 #CourseInfo {
@@ -138,13 +141,21 @@ body {
   width: 10%;
   font-size: 14px;
 }
+.mustCourse{
+  background-color:blue;
+  width: 15%;
+  margin-left:5px;
 
+}
 #MustCoursesList {
   display: inline-block;
-  right: 20%;
-  position: absolute;
+  position: static;
+  min-width: 100px;
+  overflow-y: auto;
   text-align: left;
-  list-style: none;
   visibility: hidden;
-  font-size: large;
+  font-size: 16px;
+  background-color: gray;
+  border-radius: 1%;
 }
+

@@ -22,6 +22,7 @@ document.getElementById("SemesterDropDown").onchange = SelectSemester;
 function SelectSemester(e) {
   var selected_index = e.target.selectedIndex;
   selectedSemester = parseInt(e.target[selected_index].value);
+  
   ListMustCourses();
 }
 
@@ -37,12 +38,16 @@ function ListMustCourses() {
     return;
   }
   MustCourses = mustCoursesJson[selectedDepartment][selectedSemester];
-  var list = document.getElementById("MustCoursesSpan");
-  list.innerHTML = "";
+  var list = document.getElementById("MustCoursesList");
+   list.innerHTML = "";
+    var header = document.createElement("h4");
+    header.style.backgroundColor="white";
+    header.innerHTML ="Must Courses";
+   list.appendChild(header);
   document.getElementById("MustCoursesList").style.visibility = "visible";
   MustCourses.forEach((course) => {
-      course = course.split(" ").join("");
-    var temp = document.createElement("li");
+    course = course.split(" ").join("");
+    var temp = document.createElement("div");
     temp.innerHTML = course;
     list.appendChild(temp);
     listedMusts[course] = temp;
@@ -56,11 +61,11 @@ function coloring(abbreviation,add_or_remove){
     if(Object.keys(listedMusts).indexOf(abbreviation) != -1){
         if (add_or_remove){
             console.log("add");
-            listedMusts[abbreviation].style.color = "#00ff00";
+            listedMusts[abbreviation].style.backgroundColor = "#00ff00";
         }
         else{
             console.log("remove");
-            listedMusts[abbreviation].style.color = "black";
+            listedMusts[abbreviation].style.backgroundColor = "gray";
         
         }
     }
