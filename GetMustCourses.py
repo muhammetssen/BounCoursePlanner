@@ -7,7 +7,7 @@ import json
 # a = requests.post(BASE_URL, data)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options  
-chrome_options = Options()  
+chrome_options = Options()
 chrome_options.add_argument("--headless")
 
 from bs4 import BeautifulSoup
