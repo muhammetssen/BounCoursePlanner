@@ -41,15 +41,25 @@ function ListMustCourses() {
   var list = document.getElementById("MustCoursesList");
    list.innerHTML = "";
     var header = document.createElement("h4");
-    header.style.backgroundColor="white";
-    header.innerHTML ="Must Courses";
+    header.innerHTML ="Must Courses    ";
    list.appendChild(header);
   document.getElementById("MustCoursesList").style.visibility = "visible";
   MustCourses.forEach((course) => {
     course = course.split(" ").join("");
     var temp = document.createElement("div");
+      temp.style.fontSize = "14px";
     temp.innerHTML = course;
     list.appendChild(temp);
+    console.log(temp.offsetWidth , list.offsetWidth );
+    while(temp.offsetWidth > 200){
+      console.log("asdjdkidb");
+      var currentSize = parseInt(temp.style.fontSize.replace("px",""));
+      console.log(currentSize);
+      temp.style.fontSize = (currentSize - 1) + "px";
+      console.log(temp.style.fontSize);
+      
+    }
+    
     listedMusts[course] = temp;
   });
 }
