@@ -3,7 +3,7 @@ var selectedDepartment;
 var MustCourses;
 var selectedSemester = 0;
 var listedMusts = {};
-$.getJSON("../src/must_courses.json", function (data) {
+$.getJSON("/src/must_courses.json", function (data) {
   mustCoursesJson = data[0];
   updateDropDown(data);
 });
