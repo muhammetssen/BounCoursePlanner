@@ -25,11 +25,10 @@ function Credit_List(abbreviation, add_or_remove) {
     creditSpan.style.fontSize = "10px";
 
     creditSpan.innerHTML = "Cr: " + course.Credit;
-    creditSpan.style.marginRight = "10px";
+    
     if (course.Credit > 0) {
       new_li.appendChild(creditSpan);
     }
-    new_li.style.padding = "10px";
     var inputElement = document.createElement("input");
 
     inputElement.type = "button";
@@ -43,7 +42,6 @@ function Credit_List(abbreviation, add_or_remove) {
     new_li.appendChild(inputElement);
     course_li.appendChild(new_li);
     changeCredit(course.Credit);
-    // totalCredit += course.Credit;
   } else {
     if(added_courses.indexOf(abbreviation) != -1){
       return;
