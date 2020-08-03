@@ -12,6 +12,8 @@ for donem in donems:
     courses = {}
     for department in departments:
         print(department)
+        if department == "EC: ECONOMICS":
+            print("f")
         words = department.split(":")
         params = {
             'donem':donem,
@@ -24,6 +26,7 @@ for donem in donems:
         course_list = (soup.find_all("tr",{'class':['schtd','schtd2','schtd labps']}))
         last_used = ""
         for course in course_list:
+            # print(course)
             content = course.find_all("td")
             abbreviation = content[0].getText(strip=True).replace(" ","")
             course_name = content[2].getText(strip=True)
@@ -37,6 +40,8 @@ for donem in donems:
 
             else:
                 last_used = abbreviation 
+            if len(content) > 12:
+                content.remove(content[5])
             abbreviation = abbreviation.replace(" ","")
             credit = content[3].getText(strip=True)
             ects = content[4].getText(strip=True)
