@@ -66,7 +66,7 @@ function ListMustCourses() {
 
 function coloring(abbreviation,add_or_remove){
     abbreviation = abbreviation.split(".")[0];
-    console.log(abbreviation);
+    // console.log(abbreviation);
     
     if(Object.keys(listedMusts).indexOf(abbreviation) != -1){
         if (add_or_remove){

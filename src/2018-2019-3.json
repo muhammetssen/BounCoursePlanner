@@ -1,0 +1,7067 @@
+[{
+  "PE123.01": {
+    "Course_name": "TENNIS I",
+    "Credit": 1.0,
+    "Ects": 2.0,
+    "Instructor_name": "EN\u00ddS G\u00dcLLER",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PE123.02": {
+    "Course_name": "TENNIS I",
+    "Credit": 1.0,
+    "Ects": 2.0,
+    "Instructor_name": "EN\u00ddS G\u00dcLLER",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CMPE150.01": {
+    "Course_name": "INTRODUCTION TO COMPUTING",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SADIK F\u00ddKRET G\u00dcRGEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "BM A4|BM A4"
+  },
+  "CMPE150.01Lab": {
+    "Course_name": "CMPE150.01 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "STAFF STAFF",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "Th": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "BM A4|BM A4|BM A4|BM A4|BM A4|BM A4|BM A4|BM A4"
+  },
+  "CMPE150.02": {
+    "Course_name": "INTRODUCTION TO COMPUTING",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "TAFLAN G\u00dcNDEM",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "BM A4|BM A4"
+  },
+  "CMPE150.02Lab": {
+    "Course_name": "CMPE150.02 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "STAFF STAFF",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "Th": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "BM A4|BM A4|BM A4|BM A4|BM A4|BM A4|BM A4|BM A4"
+  },
+  "CMPE210.01": {
+    "Course_name": "FUNDAMENTALS OF OBJECT ORIENTED PROG.",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "SADIK F\u00ddKRET G\u00dcRGEN",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "BM A3|BM A3|BM A3|BM A3|BM A3|BM A3"
+  },
+  "CMPE250.01": {
+    "Course_name": "DATA STRUCTURES & ALGORITHMS",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "MORDOHAY \u00deALOM",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4,
+        5
+      ],
+      "W": [],
+      "Th": [],
+      "F": [
+        3,
+        4,
+        5
+      ]
+    },
+    "Places": "BM A2|BM A2|BM A2|BM A2|BM A2|BM A2"
+  },
+  "CMPE250.01PS": {
+    "Course_name": "CMPE250.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "STAFF STAFF",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [],
+      "Th": [],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "BM A2|BM A2|BM A2|BM A2"
+  },
+  "CMPE260.01": {
+    "Course_name": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "FATMA BA\u00deAK AYDEM\u00ddR",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "BM A5|BM A5|BM A5|BM A5|BM A5|BM A5"
+  },
+  "CMPE321.01": {
+    "Course_name": "INTRODUCTION TO DATABASE SYSTEMS",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "TAFLAN G\u00dcNDEM",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "BM A5|BM A5|BM A5|BM A5|BM A5|BM A5"
+  },
+  "CMPE321.02": {
+    "Course_name": "INTRODUCTION TO DATABASE SYSTEMS",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "TAFLAN G\u00dcNDEM",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "BM A5|BM A5|BM A5|BM A5|BM A5|BM A5"
+  },
+  "CMPE321.02PS": {
+    "Course_name": "CMPE321.02 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "STAFF STAFF",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CMPE350.01": {
+    "Course_name": "FORMAL LANGUAGES & AUTOMATA THEORY",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00d6ZLEM SALEH\u00dd K\u00d6KEN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6,
+        7
+      ],
+      "Th": [
+        5,
+        6,
+        7
+      ],
+      "F": []
+    },
+    "Places": "BM A3|BM A3|BM A3|BM A3|BM A3|BM A3"
+  },
+  "CMPE496.01": {
+    "Course_name": "SP.TOP.IN CMPE:HUMAN COMPUTER INTERACTIO",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "SADIK F\u00ddKRET G\u00dcRGEN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "BM A3|BM A3|BM A3|BM A3|BM A3|BM A3"
+  },
+  "AD242.01": {
+    "Course_name": "STRATEGIC MARKETING MANAGEMENT",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "MUSTAFA D\u00ddLBER",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "NH 101|NH 101|NH 101|NH 101|NH 105|NH 105"
+  },
+  "AD251.01": {
+    "Course_name": "MANAGERIAL STATISTICS I",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "ULA\u00de AKK\u00dc\u00c7\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "\u00ddB 211|\u00ddB 211|\u00ddB 312|\u00ddB 312|\u00ddB 211|\u00ddB 211"
+  },
+  "AD252.01": {
+    "Course_name": "MANAGERIAL STATISTICS II",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "ULA\u00de AKK\u00dc\u00c7\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [
+        9,
+        10
+      ],
+      "W": [
+        9,
+        10
+      ],
+      "Th": [],
+      "F": [
+        9,
+        10
+      ]
+    },
+    "Places": "\u00ddB 211|\u00ddB 211|\u00ddB 312|\u00ddB 312|\u00ddB 211|\u00ddB 211"
+  },
+  "AD415.01": {
+    "Course_name": "CORPORATE FINANCE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "M\u00ddNE U\u00d0URLU",
+    "Hours": {
+      "M": [
+        4,
+        5
+      ],
+      "T": [],
+      "W": [],
+      "Th": [
+        5,
+        6
+      ],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "\u00ddB 211|\u00ddB 211|\u00ddB 312|\u00ddB 312|\u00ddB 211|\u00ddB 211"
+  },
+  "AD442.01": {
+    "Course_name": "ADVERTISING",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MUSTAFA D\u00ddLBER",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 101|NH 101|NH 105|NH 105|NH 105|NH 105"
+  },
+  "AD453.01": {
+    "Course_name": "QUALITY MANAGEMENT",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "ULA\u00de AKK\u00dc\u00c7\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "\u00ddB 211|\u00ddB 211|\u00ddB 312|\u00ddB 312|\u00ddB 211|\u00ddB 211"
+  },
+  "AD59A.01": {
+    "Course_name": "SP.TP.IN CORPORATE FINANCE",
+    "Credit": 3.0,
+    "Ects": 75.0,
+    "Instructor_name": "M\u00ddNE U\u00d0URLU",
+    "Hours": {
+      "M": [],
+      "T": [
+        4,
+        5
+      ],
+      "W": [],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": ""
+  },
+  "ADEX508.01": {
+    "Course_name": "FINANCIAL RISK MANAGEMENT",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "CENK CEVAT KARAHAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX514.01": {
+    "Course_name": "FINANCIAL ISSUES IN ENTREPRENEURSHIP",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "M\u00ddNE U\u00d0URLU",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX521.01": {
+    "Course_name": "SPECIAL TOPICS IN FINANCE&ACCOUNTING",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "VEDAT AKG\u00ddRAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX535.01": {
+    "Course_name": "TRADE MARKETING&SALES MANAGEMENT",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "YUSUF SONER",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX543.01": {
+    "Course_name": "SPECIAL TOPICS IN MANAGEMENT",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "G\u00dcVEN ALPAY",
+    "Hours": null,
+    "Places": ""
+  },
+  "ADEX566.02": {
+    "Course_name": "CORPORATE SUSTAINABILITY STRATEGY",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "YILMAZ ARG\u00dcDEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX573.01": {
+    "Course_name": "DATA SCIENCE FOR BUSINESS",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "MUSTAFA HAYR\u00dd TONGARLAK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX580.01": {
+    "Course_name": "ORIENTATION",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZG\u00dcN BURCU RODOPMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX585.01": {
+    "Course_name": "SP.TOP.ON GLOBAL EXECUTIVE ENVIRONMENT",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00ddREM NUHO\u00d0LU",
+    "Hours": null,
+    "Places": ""
+  },
+  "ADEX58K.01": {
+    "Course_name": "SP.TP.IN FINANCE:BUSINESS VALUATION-THEORY&PRACTICE",
+    "Credit": 2.0,
+    "Ects": 4.0,
+    "Instructor_name": "VEDAT AKG\u00ddRAY",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.01": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "AY\u00deEG\u00dcL TOKER",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.02": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESER BORAK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.03": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "G\u00dcVEN ALPAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.04": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "HAYAT KABASAKAL",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.05": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "MUSTAFA D\u00ddLBER",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.06": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "MET\u00ddN ERCAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.07": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "M\u00ddNE U\u00d0URLU",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.08": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "NESR\u00ddN OKAY AKMAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.10": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "VEDAT AKG\u00ddRAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.12": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00ddREM NUHO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.14": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZLEM HESAP\u00c7I KARACA",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.15": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "ULA\u00de AKK\u00dc\u00c7\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.16": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZG\u00dcN BURCU RODOPMAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.17": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "AL\u00dd CO\u00deKUN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.18": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "CENK CEVAT KARAHAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.19": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "NESL\u00ddHAN N.YILMAZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.20": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "H\u00dcSEY\u00ddN KARACA",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.22": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "MUSTAFA HAYR\u00dd TONGARLAK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX595.24": {
+    "Course_name": "DIRECTED READINGS IV",
+    "Credit": 1.0,
+    "Ects": 3.0,
+    "Instructor_name": "YAVUZ ACAR",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.01": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "AY\u00deEG\u00dcL TOKER",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.02": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESER BORAK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.03": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "G\u00dcVEN ALPAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.04": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "HAYAT KABASAKAL",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.05": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MUSTAFA D\u00ddLBER",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.06": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MET\u00ddN ERCAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.07": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "M\u00ddNE U\u00d0URLU",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.08": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "NESR\u00ddN OKAY AKMAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.10": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "VEDAT AKG\u00ddRAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.12": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00ddREM NUHO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.14": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZLEM HESAP\u00c7I KARACA",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.15": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "ULA\u00de AKK\u00dc\u00c7\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.16": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZG\u00dcN BURCU RODOPMAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.17": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "AL\u00dd CO\u00deKUN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.18": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "CENK CEVAT KARAHAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.19": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "NESL\u00ddHAN N.YILMAZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.20": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "H\u00dcSEY\u00ddN KARACA",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.22": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MUSTAFA HAYR\u00dd TONGARLAK",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "ADEX599.24": {
+    "Course_name": "TERM PROJECT IV",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "YAVUZ ACAR",
+    "Hours": {
+      "M": [],
+      "T": [
+        10
+      ],
+      "W": [],
+      "Th": [
+        10
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "AE111.01": {
+    "Course_name": "CRITICAL SKILLS IN ENGLISH I",
+    "Credit": 3.0,
+    "Ects": 3.0,
+    "Instructor_name": "MEL\u00ddS G\u00dcNEKAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        2,
+        3
+      ],
+      "W": [
+        2,
+        3
+      ],
+      "Th": [],
+      "F": [
+        2,
+        3
+      ]
+    },
+    "Places": "JF 334|JF 334|KP 03|KP 03|M 1200|M 1200"
+  },
+  "AE111.02": {
+    "Course_name": "CRITICAL SKILLS IN ENGLISH I",
+    "Credit": 3.0,
+    "Ects": 3.0,
+    "Instructor_name": "MEL\u00ddS G\u00dcNEKAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        6,
+        7
+      ],
+      "W": [
+        6,
+        7
+      ],
+      "Th": [],
+      "F": [
+        6,
+        7
+      ]
+    },
+    "Places": "M 2200|M 2200|M 2170|M 2170|M 1200|M 1200"
+  },
+  "AE112.01": {
+    "Course_name": "CRITICAL SKILLS IN ENGLISH II",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "SELV\u00ddN YALTIR",
+    "Hours": {
+      "M": [],
+      "T": [
+        4,
+        5
+      ],
+      "W": [
+        4,
+        5
+      ],
+      "Th": [],
+      "F": [
+        4,
+        5
+      ]
+    },
+    "Places": "KP 07|KP 07|EF 104|EF 104|EF 204|EF 204"
+  },
+  "AE221.01": {
+    "Course_name": "CRITICAL READING",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "SELV\u00ddN YALTIR",
+    "Hours": {
+      "M": [],
+      "T": [
+        6,
+        7
+      ],
+      "W": [
+        6,
+        7
+      ],
+      "Th": [],
+      "F": [
+        6,
+        7
+      ]
+    },
+    "Places": "KP 07|KP 07|EF 104|EF 104|EF 204|EF 204"
+  },
+  "FR101.01": {
+    "Course_name": "ELEMENTARY FRENCH I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "\u00d6JEN\u00dd MAZALTO",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "KYD 01|KYD 01|KYD 02|KYD 02|KYD 01|KYD 01|KYD 117|KYD 117|KYD 02|KYD 02"
+  },
+  "FR101.02": {
+    "Course_name": "ELEMENTARY FRENCH I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "SEN\u00ddHA SIRMA FURTUN",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "KP 08|KP 08|JF 102|JF 102|KP 08|KP 08|KP 08|KP 08|JF 108|JF 108"
+  },
+  "FR101.04": {
+    "Course_name": "ELEMENTARY FRENCH I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "ASLI TARKAN KALAYCIO\u00d0LU",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "KP 06|KP 06|EF 102|EF 102|JF 334|JF 334|KP 02|KP 02|JF 101|JF 101"
+  },
+  "FR102.01": {
+    "Course_name": "ELEMENTARY FRENCH II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "ULA\u00de AKARSU",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "KYD 01|KYD 01|KYD 110|KYD 110|KYD 111|KYD 111|KYD 112|KYD 112|KYD 111|KYD 111"
+  },
+  "FR102.02": {
+    "Course_name": "ELEMENTARY FRENCH II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "ULA\u00de AKARSU",
+    "Hours": {
+      "M": [
+        9,
+        10
+      ],
+      "T": [
+        9,
+        10
+      ],
+      "W": [
+        9,
+        10
+      ],
+      "Th": [
+        9,
+        10
+      ],
+      "F": [
+        9,
+        10
+      ]
+    },
+    "Places": "KYD 01|KYD 01|KYD 110|KYD 110|KYD 111|KYD 111|KYD 112|KYD 112|KYD 111|KYD 111"
+  },
+  "FR201.01": {
+    "Course_name": "INTERMEDIATE FRENCH I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "SEN\u00ddHA SIRMA FURTUN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "KP 08|KP 08|JF 102|JF 102|KP 08|KP 08|KP 08|KP 08|JF 108|JF 108"
+  },
+  "FR202.01": {
+    "Course_name": "INTERMEDIATE FRENCH II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "ASLI TARKAN KALAYCIO\u00d0LU",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "KP 07|KP 07|EF 102|EF 102|JF 334|JF 334|KP 02|KP 02|JF 101|JF 101"
+  },
+  "FR202.02": {
+    "Course_name": "INTERMEDIATE FRENCH II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "ASLI TARKAN KALAYCIO\u00d0LU",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "KP 07|KP 07|EF 102|EF 102|JF 334|JF 334|KP 02|KP 02|JF 101|JF 101"
+  },
+  "FR302.01": {
+    "Course_name": "ADVANCED FRENCH II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "S\u00ddNEM \u00c7AKMAK",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "M 2170|M 2170|N/A|N/A|N/A|N/A|N/A|N/A|JF 102|JF 102"
+  },
+  "GER101.01": {
+    "Course_name": "ELEMENTARY GERMAN I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NE\u00deE SA\u00d0IR",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "KYD 111|KYD 111|KYD 112|KYD 112|KYD 110|KYD 110|KYD 01|KYD 01|KYD 02|KYD 02"
+  },
+  "GER101.02": {
+    "Course_name": "ELEMENTARY GERMAN I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NE\u00deE SA\u00d0IR",
+    "Hours": {
+      "M": [
+        9,
+        10
+      ],
+      "T": [
+        9,
+        10
+      ],
+      "W": [
+        9,
+        10
+      ],
+      "Th": [
+        9,
+        10
+      ],
+      "F": [
+        9,
+        10
+      ]
+    },
+    "Places": "KYD 111|KYD 111|KYD 112|KYD 112|KYD 110|KYD 110|KYD 01|KYD 01|KYD 02|KYD 02"
+  },
+  "GER102.01": {
+    "Course_name": "ELEMENTARY GERMAN II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NESL\u00ddHAN AKYOL \u00c7UBUK\u00c7U",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "KP 04|KP 04|KP 06|KP 06|KP 09|KP 09|KP 03|KP 03|KP 03|KP 03"
+  },
+  "GER201.01": {
+    "Course_name": "PRE-INTERMEDIATE GERMAN I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "H\u00ddKMET AY\u00deE C\u00d6NBEZ",
+    "Hours": {
+      "M": [
+        2,
+        3
+      ],
+      "T": [
+        2,
+        3
+      ],
+      "W": [
+        2,
+        3
+      ],
+      "Th": [
+        2,
+        3
+      ],
+      "F": [
+        2,
+        3
+      ]
+    },
+    "Places": "KYD 112|KYD 112|KYD 117|KYD 117|KYD 118|KYD 118|KYD 111|KYD 111|KYD 117|KYD 117"
+  },
+  "GER202.01": {
+    "Course_name": "PRE-INTERMEDIATE GERMAN II",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "H\u00ddKMET AY\u00deE C\u00d6NBEZ",
+    "Hours": {
+      "M": [
+        4,
+        5
+      ],
+      "T": [
+        4,
+        5
+      ],
+      "W": [
+        4,
+        5
+      ],
+      "Th": [
+        4,
+        5
+      ],
+      "F": [
+        4,
+        5
+      ]
+    },
+    "Places": "KYD 112|KYD 112|KYD 117|KYD 117|KYD 118|KYD 118|KYD 111|KYD 111|KYD 117|KYD 117"
+  },
+  "GER301.01": {
+    "Course_name": "INTERMEDIATE GERMAN I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NESL\u00ddHAN AKYOL \u00c7UBUK\u00c7U",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "KP 04|KP 04|KP 06|KP 06|KP 09|KP 09|KP 03|KP 03|KP 03|KP 03"
+  },
+  "RUS101.01": {
+    "Course_name": "ELEMENTARY RUSSIAN I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NATALIA DEM\u00ddRKAPILI",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "KP 05|KP 05|KP 05|KP 05|EF 101|EF 101|EF 101|EF 101|EF 101|EF 101"
+  },
+  "SFL13A.01": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "S.MERVE AKBA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.02": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "FEYZA \u00c7EL\u00ddKTA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.03": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AYSUN BALKAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.04": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SE\u00c7\u00ddL BARAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.05": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "MUSTAFA G\u00d6NEN\u00c7",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.06": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "H\u00dcLYA ERSOY",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.07": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "G\u00d6N\u00dcL TU\u00d0BA AKDA\u00d0",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.08": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SERAP ERDAL BULUT",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.09": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AHMET B\u00dcLB\u00dcL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.10": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "H\u00dcRM\u00dcZ TEL\u00c7EKER",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13A.11": {
+    "Course_name": "PROGRAM 1 SUMMER A",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SEMA \u00d6Z\u00c7ALLI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.01": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "EMEL TOZLU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.02": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "EMEL TOZLU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.03": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SE\u00c7\u00ddL BARAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.04": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AYSUN BALKAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.05": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "H\u00dcLYA ERSOY",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.06": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "MUSTAFA G\u00d6NEN\u00c7",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.07": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "MEL\u00ddKE YILMAZ BA\u00deTU\u00d0",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.08": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "H\u00dcRM\u00dcZ TEL\u00c7EKER",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.09": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "OYA \u00d6ZA\u00d0A\u00c7",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.10": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "DEN\u00ddZ SAVA\u00deAL ATLI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFL13B.11": {
+    "Course_name": "PROGRAM 1 SUMMER B",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "DEN\u00ddZ SAVA\u00deAL ATLI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRL1.01": {
+    "Course_name": "REMEDIAL LISTENING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "B\u00dc\u00deRA AY\u00c7A KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRL1.02": {
+    "Course_name": "REMEDIAL LISTENING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AY\u00deE SARI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRL1.03": {
+    "Course_name": "REMEDIAL LISTENING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00c7\u00dd\u00d0DEM TABAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRR1.01": {
+    "Course_name": "REMEDIAL READING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "B\u00dc\u00deRA AY\u00c7A KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRR1.02": {
+    "Course_name": "REMEDIAL READING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00c7\u00dd\u00d0DEM TABAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRR1.03": {
+    "Course_name": "REMEDIAL READING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SELMA AYTEN \u00dcST\u00dcNDA\u00d0",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.01": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AY\u00deE SARI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.02": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "B\u00dc\u00deRA AY\u00c7A KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.03": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AY\u00deEG\u00dcL KORKMAZ",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.04": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "PINAR PEKEL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.05": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00c7\u00dd\u00d0DEM TABAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.06": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SELMA AYTEN \u00dcST\u00dcNDA\u00d0",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.07": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00ddPEK SEYALIO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.08": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "EM\u00ddNE F\u00dcSUN SAVCI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.09": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SOS\u00dd ZOV\u00ddKO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SFLRW1.10": {
+    "Course_name": "REMEDIAL WRITING",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "ESRA BENER",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "SPA101.01": {
+    "Course_name": "ELEMENTARY SPANISH I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NATALIA DEM\u00ddRKAPILI",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "KP 05|KP 05|KP 05|KP 05|EF 101|EF 101|EF 101|EF 101|EF 101|EF 101"
+  },
+  "AL312.01": {
+    "Course_name": "SURVEY OF AMERICAN LIT. FROM LATE 19 CEN",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "GEORGE H. JUNNE",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "JF 101|JF 101|JF 101|JF 101|JF 102|JF 102"
+  },
+  "CL48O.01": {
+    "Course_name": "MILES&PILES:WOMEN TRAVELLERS&REPRESENTATIONS 1906-PRESENT",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00d6ZLEM EZER",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "JF 101|JF 101|M 1181|M 1181|EF 103|EF 103"
+  },
+  "EL101.01": {
+    "Course_name": "SURVEY OF ENG.LIT.FROM OLD ENG.PERIOD TO",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "EVR\u00ddM DO\u00d0AN ADANUR",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "JF 108|JF 108|M 1152|M 1152|M 1181|M 1181"
+  },
+  "EL306.01": {
+    "Course_name": "THE ENGLISH ROMANTICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "N.C\u00ddHAN YURDA\u00dcN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "M 2171|M 2171|M 2171|M 2171|M 2171|M 2171"
+  },
+  "FA341.01": {
+    "Course_name": "HISTORY OF THE CINEMA",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00deAHAN YATARKALKMAZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "M 2231|M 2231|EF 103|EF 103|JF 108|JF 108"
+  },
+  "FA341.01PS": {
+    "Course_name": "FA341.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00deAHAN YATARKALKMAZ",
+    "Hours": {
+      "M": [
+        5,
+        6,
+        7
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "JF 102|JF 102|JF 102"
+  },
+  "FA341.02": {
+    "Course_name": "HISTORY OF THE CINEMA",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00deAHAN YATARKALKMAZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        6,
+        7
+      ],
+      "W": [
+        6,
+        7
+      ],
+      "Th": [
+        6,
+        7
+      ],
+      "F": []
+    },
+    "Places": "JF 331|JF 331|JF 333|JF 333|JF 332|JF 332"
+  },
+  "FA348.01": {
+    "Course_name": "INTRODUCTION TO FILM ANALYSIS",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "TUBA AY",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "JF 101|JF 101|JF 332|JF 332|JF 333|JF 333"
+  },
+  "FA349.01": {
+    "Course_name": "FILM THEORY",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "TUBA AY",
+    "Hours": {
+      "M": [],
+      "T": [
+        8,
+        9
+      ],
+      "W": [
+        8,
+        9
+      ],
+      "Th": [
+        8,
+        9
+      ],
+      "F": []
+    },
+    "Places": "JF 102|JF 102|JF 108|JF 108|JF 102|JF 102"
+  },
+  "FA485.01": {
+    "Course_name": "SP.TP.MYSTERY IN FILM",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "AY\u00deEG\u00dcL DO\u00d0AN",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "EF 205|EF 205|JF 102|JF 102|JF 102|JF 102"
+  },
+  "FA485.01Lab": {
+    "Course_name": "FA485.01 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "AY\u00deEG\u00dcL DO\u00d0AN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        5
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "FA486.01": {
+    "Course_name": "SPECIAL TOPICS.:SCRIPTWRITING",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SAL\u00ddH MEHMET \u00ddNAN",
+    "Hours": {
+      "M": [
+        3,
+        4,
+        5
+      ],
+      "T": [],
+      "W": [
+        3,
+        4,
+        5
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "JF 101|JF 101|JF 101|JF 108|JF 108|JF 108"
+  },
+  "FA48J.01": {
+    "Course_name": "SP.TP.MYTHIC STRUC.&STORYTELLING IN CIN.",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SAL\u00ddH MEHMET \u00ddNAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4,
+        5
+      ],
+      "W": [],
+      "Th": [
+        3,
+        4,
+        5
+      ],
+      "F": []
+    },
+    "Places": "S\u00ddNEBU|S\u00ddNEBU|S\u00ddNEBU|S\u00ddNEBU|S\u00ddNEBU|S\u00ddNEBU"
+  },
+  "FA48R.01": {
+    "Course_name": "SP.TOP.CONTEMPORARY ART",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "N\u00dcZHET MERVE ERTUFAN",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "JF 334|JF 334|M 2152|M 2152|JF 102|JF 102"
+  },
+  "FA49G.01": {
+    "Course_name": "SP.TP.IRANIAN CINEMA",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "NEGAR TAYMOORZADEH",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        7,
+        8,
+        9
+      ],
+      "Th": [],
+      "F": [
+        7,
+        8,
+        9
+      ]
+    },
+    "Places": "JF 102|JF 102|JF 102|JF 102|JF 102|JF 102"
+  },
+  "FA49L.01": {
+    "Course_name": "SP.TP.THE GRAMM.OF FILM LANG.:FILM EDIT.",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00d6ZCAN VARDAR",
+    "Hours": {
+      "M": [
+        1,
+        2,
+        3
+      ],
+      "T": [],
+      "W": [],
+      "Th": [
+        1,
+        2,
+        3
+      ],
+      "F": []
+    },
+    "Places": "M\u00ddTHAT ALAM|M\u00ddTHAT ALAM|M\u00ddTHAT ALAM|M\u00ddTHAT ALAM|M\u00ddTHAT ALAM|M\u00ddTHAT ALAM"
+  },
+  "FA49P.01": {
+    "Course_name": "SP.TP.MIDD.EAST.ASIA HIST.OF SHAK.ON FILM",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SAMHITA SUNYA",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "JF 101|JF 101|JF 102|JF 102|JF 334|JF 334"
+  },
+  "FA49Y.01": {
+    "Course_name": "SP.TP.POPULAR CULTURE FILM&MEDIA",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "TOLGA YALUR",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "M 1181|M 1181|M 2230|M 2230|JF 102|JF 102"
+  },
+  "CE421.01": {
+    "Course_name": "ENVIRONMENTAL ENGINEERING",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "TAMER ATABARUT",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "W": [],
+      "Th": [
+        7,
+        8,
+        9
+      ],
+      "F": []
+    },
+    "Places": "M 3100|M 3100|M 3100|M 3100|M 3100|M 3100|M 3100"
+  },
+  "CET360.01": {
+    "Course_name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "HAMD\u00dd ERKUNT",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CET360.02": {
+    "Course_name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "HAMD\u00dd ERKUNT",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CET360.03": {
+    "Course_name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "MUTLU \u00deEN AKBULUT",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CET48B.01": {
+    "Course_name": "SP.TP.TEACHING FOR CODING",
+    "Credit": 3.0,
+    "Ects": 3.0,
+    "Instructor_name": "DUYGU UMUTLU",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CHEM103.01": {
+    "Course_name": "GENERAL CHEMISTRY I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "NEYLAN D\u00ddR\u00ddLGEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        2,
+        3
+      ],
+      "W": [
+        2,
+        3
+      ],
+      "Th": [
+        2,
+        3
+      ],
+      "F": []
+    },
+    "Places": "KB 125|KB 125|KB 125|KB 125|KB 125|KB 125"
+  },
+  "CHEM103.01PS": {
+    "Course_name": "CHEM103.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "NEYLAN D\u00ddR\u00ddLGEN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        6,
+        7
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KB 125|KB 125"
+  },
+  "CHEM104.01": {
+    "Course_name": "GENERAL CHEMISTRY II",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "JESMI \u00c7AVU\u00deO\u00d0LU",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 202|NH 202|NH 304|NH 304|NH 304|NH 304"
+  },
+  "CHEM104.01PS": {
+    "Course_name": "CHEM104.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "JESMI \u00c7AVU\u00deO\u00d0LU",
+    "Hours": {
+      "M": [
+        3
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 202"
+  },
+  "CHEM105.01": {
+    "Course_name": "FUNDAMENTALS OF CHEMISTRY",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "SES\u00ddL \u00c7INAR",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 301|NH 301|NH 304|NH 304|NH 304|NH 304"
+  },
+  "CHEM105.01Lab": {
+    "Course_name": "CHEM105.01 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00d6ZGE AKDEN\u00ddZ",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "CHEM105.01PS": {
+    "Course_name": "CHEM105.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "SES\u00ddL \u00c7INAR",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 201"
+  },
+  "CHEM201.01": {
+    "Course_name": "ORGANIC CHEMISTRY I",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00ddLKNUR DO\u00d0AN",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 201|NH 201|NH 305|NH 305|NH 101|NH 101|NH 101|NH 101"
+  },
+  "CHEM201.01PS": {
+    "Course_name": "CHEM201.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00ddLKNUR DO\u00d0AN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 201|NH 201"
+  },
+  "CHEM202.01": {
+    "Course_name": "ORGANIC CHEMISTRY II",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00ddLKNUR DO\u00d0AN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 201|NH 201|NH 302|NH 302|NH 103|NH 103|NH 104|NH 104"
+  },
+  "CHEM202.01PS": {
+    "Course_name": "CHEM202.01 PS",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "\u00ddLKNUR DO\u00d0AN",
+    "Hours": {
+      "M": [
+        9,
+        10
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 201|NH 201"
+  },
+  "CHEM203.01": {
+    "Course_name": "ORGANIC CHEMISTRY LABORATORY I",
+    "Credit": 2.0,
+    "Ects": 4.0,
+    "Instructor_name": "ED\u00ddZ TAYLAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        2,
+        3,
+        4
+      ],
+      "Th": [
+        4,
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 303|NH 303|NH 303|NH 303|NH 303|NH 303"
+  },
+  "CHEM204.01": {
+    "Course_name": "ORGANIC CHEMISTRY LABORATORY II",
+    "Credit": 2.0,
+    "Ects": 4.0,
+    "Instructor_name": "ED\u00ddZ TAYLAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6,
+        7
+      ],
+      "W": [
+        6,
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 201|NH 201|NH 201|NH 202|NH 202|NH 202"
+  },
+  "PHYS101.01": {
+    "Course_name": "PHYSICS I",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "YANI SKARLATOS",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "EF 106|EF 106|EF 206|EF 206|NH 301|NH 301"
+  },
+  "PHYS101.02": {
+    "Course_name": "PHYSICS I",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "YANI SKARLATOS",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "EF 106|EF 106|EF 206|EF 206|NH 301|NH 301"
+  },
+  "PHYS101.03": {
+    "Course_name": "PHYSICS I",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "NAC\u00dd \u00ddNC\u00dd",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 403|NH 403|NH 404|NH 404|NH 403|NH 403"
+  },
+  "PHYS101.04": {
+    "Course_name": "PHYSICS I",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "NAC\u00dd \u00ddNC\u00dd",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 301|NH 301|NH 305|NH 305|NH 401|NH 401"
+  },
+  "PHYS102.01": {
+    "Course_name": "PHYSICS II",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "\u00d6M\u00dcR AKY\u00dcZ",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "KB 316|KB 316|KB 316|KB 316|KB 316|KB 316"
+  },
+  "PHYS102.02": {
+    "Course_name": "PHYSICS II",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "MET\u00ddN ARIK",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 101|NH 101|NH 101|NH 101|NH 105|NH 105"
+  },
+  "PHYS121.01": {
+    "Course_name": "INTRODUCTORY MECHANICS & THERMODYNAMICS",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "ERHAN G\u00dcLMEZ",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 203|NH 203|NH 301|NH 301|EF 106|EF 106"
+  },
+  "PHYS121.02": {
+    "Course_name": "INTRODUCTORY MECHANICS & THERMODYNAMICS",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "ERHAN G\u00dcLMEZ",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 203|NH 203|NH 301|NH 301|EF 106|EF 106"
+  },
+  "PHYS130.01": {
+    "Course_name": "THERMODYN., WAVES, OPTICS & MODERN PHYS.",
+    "Credit": 4.0,
+    "Ects": 7.0,
+    "Instructor_name": "\u00d6ZHAN \u00d6ZATAY",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "NH 305|NH 305|EF 206|EF 206|NH 301|NH 301"
+  },
+  "PHYS130.02": {
+    "Course_name": "THERMODYN., WAVES, OPTICS & MODERN PHYS.",
+    "Credit": 4.0,
+    "Ects": 7.0,
+    "Instructor_name": "\u00d6ZHAN \u00d6ZATAY",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 305|NH 305|EF 206|EF 206|NH 301|NH 301"
+  },
+  "PHYS130.04": {
+    "Course_name": "THERMODYN., WAVES, OPTICS & MODERN PHYS.",
+    "Credit": 4.0,
+    "Ects": 7.0,
+    "Instructor_name": "VEYS\u00dd ERKCAN \u00d6ZCAN",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 104|NH 104|EF 106|EF 106|NH 203|NH 203"
+  },
+  "PHYS130.05": {
+    "Course_name": "THERMODYN., WAVES, OPTICS & MODERN PHYS.",
+    "Credit": 4.0,
+    "Ects": 7.0,
+    "Instructor_name": "VEYS\u00dd ERKCAN \u00d6ZCAN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 104|NH 104|EF 106|EF 106|NH 203|NH 203"
+  },
+  "PHYS201.01": {
+    "Course_name": "PHYSICS III",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "HAKAN  ERKOL",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 403|NH 403|NH 301|NH 301|NH 301|NH 301"
+  },
+  "PHYS201.02": {
+    "Course_name": "PHYSICS III",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "HAKAN  ERKOL",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 403|NH 403|NH 301|NH 301|NH 301|NH 301"
+  },
+  "PHYS201.03": {
+    "Course_name": "PHYSICS III",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "SERDAR NERG\u00ddZ",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 405|NH 405|KB Z01|KB Z01|KB Z01|KB Z01"
+  },
+  "PHYS201.04": {
+    "Course_name": "PHYSICS III",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "SERDAR NERG\u00ddZ",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 405|NH 405|KB Z01|KB Z01|KB Z01|KB Z01"
+  },
+  "PHYS201.05": {
+    "Course_name": "PHYSICS III",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "MEHMET BUR\u00c7\u00ddN \u00dcNL\u00dc",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "NH 402|NH 402|NH 302|NH 302|NH 402|NH 402"
+  },
+  "PHYS201.06": {
+    "Course_name": "PHYSICS III",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "MEHMET BUR\u00c7\u00ddN \u00dcNL\u00dc",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 402|NH 402|NH 302|NH 302|NH 402|NH 402"
+  },
+  "PHYS202.01": {
+    "Course_name": "PHYSICS IV",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00ddBRAH\u00ddM SEM\u00ddZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "KB 316|KB 316|NH 202|NH 202|NH 302|NH 302"
+  },
+  "PHYS202.02": {
+    "Course_name": "PHYSICS IV",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00ddBRAH\u00ddM SEM\u00ddZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "KB 316|KB 316|NH 202|NH 202|NH 302|NH 302"
+  },
+  "PHYS205.01": {
+    "Course_name": "EXPLORING THE COSMOS I",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "LEVENT KURNAZ",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "NH 102|NH 102|NH 201|NH 201|NH 103|NH 103"
+  },
+  "PHYS221.01": {
+    "Course_name": "THERMAL PROPERTIES OF MATTER",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SERDAR NERG\u00ddZ",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 405|NH 405|KB Z01|KB Z01|KB 316|KB 316"
+  },
+  "PHYS225.01": {
+    "Course_name": "INTRODUCTION TO EARTH SCIENCE I",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "LEVENT KURNAZ",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 102|NH 102|NH 201|NH 201|NH 103|NH 103"
+  },
+  "PHYS302.01": {
+    "Course_name": "CLASSICAL MECHANICS II",
+    "Credit": 3.0,
+    "Ects": 3.0,
+    "Instructor_name": "CAN KOZ\u00c7AZ",
+    "Hours": {
+      "M": [
+        1,
+        2,
+        3
+      ],
+      "T": [],
+      "W": [
+        1,
+        2,
+        3
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KB 125|KB 125|KB 125|EF 104|EF 104|EF 104"
+  },
+  "PHYS325.01": {
+    "Course_name": "MATHEMATICAL METHODS OF PHYSICS I",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "MET\u00ddN ARIK",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 101|NH 101|NH 101|NH 101|NH 105|NH 105"
+  },
+  "PHYS380.01": {
+    "Course_name": "INTRO.TO ELECTROMAGNETIC RADIATION",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00d6M\u00dcR AKY\u00dcZ",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "KB 316|KB 316|KB 316|KB 316|KB 316|KB 316"
+  },
+  "STS401.01": {
+    "Course_name": "HISTORY OF SCIENCE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "LEVENT KURNAZ",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 102|NH 102|NH 201|NH 201|NH 102|NH 102"
+  },
+  "EC101.01": {
+    "Course_name": "PRINCIPLES OF MICROECONOMICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "RIFAT BARI\u00de TEK\u00ddN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NB 119|NB 119|NB 119|NB 119|NB 119|NB 119"
+  },
+  "EC101.02": {
+    "Course_name": "PRINCIPLES OF MICROECONOMICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "KIVAN\u00c7 KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NB 119|NB 119|NB 119|NB 119|NB 119|NB 119"
+  },
+  "EC102.01": {
+    "Course_name": "PRINCIPLES OF MACROECONOMICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "BARI\u00de G\u00dcVEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NB 119|NB 119|NB 119|NB 119|NB 119|NB 119"
+  },
+  "EC203.01": {
+    "Course_name": "MICROECONOMICS I",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MERAL TU\u00d0\u00c7E \u00d6ZB\u00ddLEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 203|NH 203|NH 105|NH 105|NH 401|NH 401"
+  },
+  "EC205.01": {
+    "Course_name": "MACROECONOMICS I",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00ddBRAH\u00ddM DEM\u00ddR",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 201|NH 201|M 1170|M 1170|M 1170|M 1170"
+  },
+  "EC471.01": {
+    "Course_name": "GROWTH AND DEVELOPMENT",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "EMREHAN AKTU\u00d0",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 1170|M 1170|\u00ddB 201|\u00ddB 201|\u00ddB 201|\u00ddB 201"
+  },
+  "EC489.01": {
+    "Course_name": "SPECIAL TOPICS IN ECONOMICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "ORHAN AYG\u00dcN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "\u00ddB 312|\u00ddB 312|NH 104|NH 104|\u00ddB 211|\u00ddB 211|M 1171|M 1171"
+  },
+  "EC489.02": {
+    "Course_name": "SPECIAL TOPICS IN ECONOMICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "EMEKCAN Y\u00dcCEL",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "\u00ddB 312|\u00ddB 312|NH 104|NH 104|\u00ddB 201|\u00ddB 201|M 1171|M 1171"
+  },
+  "EC489.03": {
+    "Course_name": "SPECIAL TOPICS IN ECONOMICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "T\u00dcRKMEN G\u00d6KSEL",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "\u00ddB 201|\u00ddB 201|NH 103|NH 103|M 1170|M 1170|\u00ddB 211|\u00ddB 211"
+  },
+  "EC48P.01": {
+    "Course_name": "SP.TP.IN CITIES, POVERTY&DEVELOPMENT",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "UMUT KURU\u00dcZ\u00dcM",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "M 1171|M 1171|M 1171|M 1171|\u00ddB 211|\u00ddB 211"
+  },
+  "EC48W.01": {
+    "Course_name": "SP.TP.IN DATA-DRIVEN DECISION MAKING",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00deABAN DALAMAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2,
+        3
+      ],
+      "W": [],
+      "Th": [
+        1,
+        2,
+        3
+      ],
+      "F": []
+    },
+    "Places": "\u00ddB 312|\u00ddB 312|\u00ddB 312|\u00ddB 211|\u00ddB 211|\u00ddB 211"
+  },
+  "EE210.01": {
+    "Course_name": "INTRODUCTION TO ELECTRICAL ENGINEERING",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "SEL\u00ddM \u00deEKER",
+    "Hours": {
+      "M": [
+        1,
+        2,
+        3
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": [
+        1,
+        2,
+        3
+      ]
+    },
+    "Places": "KB MAXWELL|KB MAXWELL|KB MAXWELL|KB MAXWELL|KB MAXWELL|KB MAXWELL"
+  },
+  "EF552.01": {
+    "Course_name": "INTERNATIONAL FINANCIAL MARKETS",
+    "Credit": 3.0,
+    "Ects": 8.0,
+    "Instructor_name": "BURAK SALTO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF558.01": {
+    "Course_name": "DERIVATIVES",
+    "Credit": 3.0,
+    "Ects": 8.0,
+    "Instructor_name": "KIVAN\u00c7 KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF561.01": {
+    "Course_name": "MONETARY POLICY & CENTRAL BANKING",
+    "Credit": 3.0,
+    "Ects": 8.0,
+    "Instructor_name": "LEVENT YILDIRAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF562.01": {
+    "Course_name": "ADVANCED CORPORATE FINANCE",
+    "Credit": 3.0,
+    "Ects": 8.0,
+    "Instructor_name": "TOLGA UMUT KUZUBA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF582.01": {
+    "Course_name": "DIR.READ.ON THE STRUC.OF FIN.MARKETS II",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "G\u00dcZ\u00ddN G\u00dcLS\u00dcN AKIN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.01": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "ORHAN AYG\u00dcN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.02": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "MAL\u00ddK \u00c7\u00dcR\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.03": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "MEHMET Y\u00dd\u00d0\u00ddT G\u00dcRDAL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.04": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "OZAN HAT\u00ddPO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.05": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "KIVAN\u00c7 KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.06": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "MURAT KIRDAR",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.07": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "MURAT KOYUNCU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.08": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "TOLGA UMUT KUZUBA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.09": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "G\u00d6KHAN \u00d6ZERTAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.10": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "BEG\u00dcM \u00d6ZKAYNAK",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.11": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "BURAK SALTO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.12": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "ORHAN TORUL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.13": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "LEVENT YILDIRAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF583.14": {
+    "Course_name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+    "Credit": 1.0,
+    "Ects": 1.0,
+    "Instructor_name": "EMEKCAN Y\u00dcCEL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF592.01": {
+    "Course_name": "TERM PROJECT II",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "G\u00dcZ\u00ddN G\u00dcLS\u00dcN AKIN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.01": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "ORHAN AYG\u00dcN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.02": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MAL\u00ddK \u00c7\u00dcR\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.03": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MEHMET Y\u00dd\u00d0\u00ddT G\u00dcRDAL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.04": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "OZAN HAT\u00ddPO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.05": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "KIVAN\u00c7 KARAMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.06": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MURAT KIRDAR",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.07": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "MURAT KOYUNCU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.08": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "TOLGA UMUT KUZUBA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.09": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "G\u00d6KHAN \u00d6ZERTAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.10": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "BEG\u00dcM \u00d6ZKAYNAK",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.11": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "BURAK SALTO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.12": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "ORHAN TORUL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.13": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "LEVENT YILDIRAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "EF593.14": {
+    "Course_name": "TERM PROJECT III",
+    "Credit": 0.0,
+    "Ects": 3.0,
+    "Instructor_name": "EMEKCAN Y\u00dcCEL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "FLED306.01": {
+    "Course_name": "CHILDHOOD BILINGUALISM&BILINGUAL EDUC.",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "BELMA HAZNEDAR",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "EF 104|EF 104|EF 202|EF 202|EF 202|EF 202"
+  },
+  "FLED311.01": {
+    "Course_name": "SECOND LANGUAGE TEACHING METHODS",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "SUMRU AKCAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "EF 116|EF 116|EF 116|EF 116|EF 116|EF 116"
+  },
+  "FLED317.01": {
+    "Course_name": "THEORETICAL FOUNDATIONS OF LANGUAGE SKIL",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "G\u00dcLCAN ER\u00c7ET\u00ddN",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "EF 104|EF 104|EF 202|EF 202|EF 202|EF 202"
+  },
+  "FLED411.01": {
+    "Course_name": "TECHNOLOGY ENHANCED LANGUAGE TEACHING",
+    "Credit": 4.0,
+    "Ects": 9.0,
+    "Instructor_name": "MUSTAFA POLAT",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "W": [],
+      "Th": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "EF 202|EF 202|EF 202|EF 202|EF 204|EF 204|EF 204|EF 204"
+  },
+  "HIST426.01": {
+    "Course_name": "HIST.OF THE MIDDLE EAST IN THE TWENTIETH",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SENA KARAS\u00ddPAH\u00dd",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "TB 240|TB 240|TB 415|TB 415|TB 240|TB 240"
+  },
+  "HIST48R.01": {
+    "Course_name": "SP.TP.WARFARE IN THE MIDDLE AGES",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "GEORGIOS THEOTOKIS",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "TB 240|TB 240|TB 415|TB 415|TB 240|TB 240"
+  },
+  "HIST49R.01": {
+    "Course_name": "SP.TP.EUROPEAN CITIES",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "PIOTR KISIEL",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "TB 415|TB 415|JF 108|JF 108|TB 415|TB 415"
+  },
+  "HIST49S.01": {
+    "Course_name": "SP.TP.SOVIET&POST-SOVI.HIST.IN TEST&POP.CUL.",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "ANA DEV\u00ddC",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "TB 415|TB 415|TB 240|TB 240|TB 240|TB 240"
+  },
+  "HIST49U.01": {
+    "Course_name": "SP.TP.CUL.HERIT.THEO.&EMP.PERS.",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "LISA GILMAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "TB 415|TB 415|TB 240|TB 240|TB 240|TB 240"
+  },
+  "HIST49V.01": {
+    "Course_name": "SP.TP.CROSS-CULT.ENCOUNT.IN MED.E.MEDITERR",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "ZEYNEP AYDO\u00d0AN",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "TB 240|TB 240|TB 415|TB 415|TB 240|TB 240"
+  },
+  "INTT211.01": {
+    "Course_name": "INTERNATIONAL TRADE",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "SABR\u00dd ARHAN ERTAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "Th": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "HA 311|HA 311|HA 311|HA 311|HA 311|HA 311|HA 311|HA 311"
+  },
+  "LING101.01": {
+    "Course_name": "INTRODUCTION TO LANGUAGE&LINGUISTICS I",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "KONSTANTINOS SAMPANIS",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "JF 334|JF 334|M 1170|M 1170|NH 304|NH 304"
+  },
+  "LING313.01": {
+    "Course_name": "PHONOLOGY&MORPHOLOGY OF MODERN TURKISH",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "MET\u00ddN BA\u00d0RIA\u00c7IK",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "JF 334|JF 334|M 2181|M 2181|JF 334|JF 334"
+  },
+  "LING324.01": {
+    "Course_name": "HISTORICAL LINGUISTICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "KONSTANTINOS SAMPANIS",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "M 1170|M 1170|M 2231|M 2231|JF 334|JF 334"
+  },
+  "MATH101.01": {
+    "Course_name": "CALCULUS I",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "EK\u00ddN \u00d6ZMAN KARAKURT",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [],
+      "Th": [
+        1,
+        2
+      ],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "NH 105|NH 105|NH 305|NH 305|NH 401|NH 401|TB 310|TB 310"
+  },
+  "MATH101.02": {
+    "Course_name": "CALCULUS I",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "EK\u00ddN \u00d6ZMAN KARAKURT",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "NH 105|NH 105|NH 305|NH 305|NH 401|NH 401|TB 310|TB 310"
+  },
+  "MATH101.03": {
+    "Course_name": "CALCULUS I",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "DEN\u00ddZ YILMAZ",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 301|NH 301|NH 401|NH 401|NH 305|NH 305|NH 101|NH 101"
+  },
+  "MATH101.04": {
+    "Course_name": "CALCULUS I",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "DEN\u00ddZ YILMAZ",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 301|NH 301|NH 401|NH 401|NH 305|NH 305|NH 101|NH 101"
+  },
+  "MATH102.01": {
+    "Course_name": "CALCULUS II",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00c7A\u00d0RI KARAKURT",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 105|NH 105|NH 105|NH 105|TB 310|TB 310|NH 305|NH 305"
+  },
+  "MATH102.02": {
+    "Course_name": "CALCULUS II",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00c7A\u00d0RI KARAKURT",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 105|NH 105|NH 105|NH 105|TB 310|TB 310|NH 305|NH 305"
+  },
+  "MATH102.03": {
+    "Course_name": "CALCULUS II",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "SEFA FEZA ARSLAN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 401|NH 401|NH 405|NH 405|NH 401|NH 401|NH 203|NH 203"
+  },
+  "MATH102.04": {
+    "Course_name": "CALCULUS II",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "SEFA FEZA ARSLAN",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 401|NH 401|NH 405|NH 405|NH 401|NH 401|NH 203|NH 203"
+  },
+  "MATH105.01": {
+    "Course_name": "INTRODUCTION TO FINITE MATHEMATICS",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "T\u00dcLAY AYYILDIZ AKO\u00d0LU",
+    "Hours": {
+      "M": [
+        3,
+        4,
+        5
+      ],
+      "T": [
+        3,
+        4,
+        5
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 304|NH 304|NH 304|NH 303|NH 303|NH 303|NH 102|NH 102"
+  },
+  "MATH201.01": {
+    "Course_name": "MATRIX THEORY",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00ddLKER ARSLAN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 101|NH 101|NH 102|NH 102|NH 405|NH 405|NH 405|NH 405"
+  },
+  "MATH201.02": {
+    "Course_name": "MATRIX THEORY",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00ddLKER ARSLAN",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NH 101|NH 101|NH 102|NH 102|NH 405|NH 405|NH 405|NH 405"
+  },
+  "MATH201.03": {
+    "Course_name": "MATRIX THEORY",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00deEF\u00ddKA KUZGUN YEN\u00ddSEY",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "NH 404|NH 404|NH 404|NH 404|NH 105|NH 105|NH 404|NH 404"
+  },
+  "MATH201.04": {
+    "Course_name": "MATRIX THEORY",
+    "Credit": 4.0,
+    "Ects": 5.0,
+    "Instructor_name": "\u00deEF\u00ddKA KUZGUN YEN\u00ddSEY",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 404|NH 404|NH 404|NH 404|NH 105|NH 105|NH 404|NH 404"
+  },
+  "MATH202.01": {
+    "Course_name": "DIFFERENTIAL EQUATIONS",
+    "Credit": 4.0,
+    "Ects": 7.0,
+    "Instructor_name": "N.SADIK DE\u00d0ER",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "TB 310|TB 310|NH 105|NH 105|TB 310|TB 310|NH 305|NH 305"
+  },
+  "MATH202.02": {
+    "Course_name": "DIFFERENTIAL EQUATIONS",
+    "Credit": 4.0,
+    "Ects": 7.0,
+    "Instructor_name": "N.SADIK DE\u00d0ER",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "TB 310|TB 310|NH 105|NH 105|TB 310|TB 310|NH 305|NH 305"
+  },
+  "MATH345.01": {
+    "Course_name": "PROBABILITY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "ALPEREN \u00d6ZDEM\u00ddR",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 304|NH 304|NH 304|NH 304|NH 102|NH 102"
+  },
+  "MATH427.01": {
+    "Course_name": "ELEMENTARY NUMBER THEORY II",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "KAZIM \u00ddLHAN \u00ddKEDA",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2,
+        3
+      ],
+      "W": [],
+      "Th": [
+        1,
+        2,
+        3
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "MIS132.01": {
+    "Course_name": "OBJECT ORIENTED PROGRAMMING",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "BERTAN YILMAZ BADUR",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "MIS132.01Lab": {
+    "Course_name": "MIS132.01 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "BERTAN YILMAZ BADUR",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "MIS321.01": {
+    "Course_name": "SYSTEM ANALYSIS & DESIGN",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "ALBERT \u00d6ZKOHEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4,
+        5
+      ],
+      "W": [
+        3,
+        4,
+        5
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "MIS321.01Lab": {
+    "Course_name": "MIS321.01 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "ALBERT \u00d6ZKOHEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        6
+      ],
+      "W": [
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "MIS331.01": {
+    "Course_name": "DATA MINING",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "BERTAN YILMAZ BADUR",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "MIS331.01Lab": {
+    "Course_name": "MIS331.01 Lab",
+    "Credit": 0,
+    "Ects": 0,
+    "Instructor_name": "BERTAN YILMAZ BADUR",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PA241.01": {
+    "Course_name": "APPLIED ARTS",
+    "Credit": 2.0,
+    "Ects": 4.0,
+    "Instructor_name": "MUTLU M.ERBAY",
+    "Hours": {
+      "M": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PA374.01": {
+    "Course_name": "THEORY&TECHNIQUES OF PHOTOGRAPHY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "NUR\u00dd \u00d6ZER ERBAY",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PA393.01": {
+    "Course_name": "ART & ARCHITECTURE OF HISTORICAL CAPITAL",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "FETH\u00ddYE F.ERBAY",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PA393.02": {
+    "Course_name": "ART & ARCHITECTURE OF HISTORICAL CAPITAL",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MUTLU M.ERBAY",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PA395.01": {
+    "Course_name": "ART&ARCHITEC.OF HIST.CAPITAL:OTT.MON.",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "FETH\u00ddYE F.ERBAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PA395.02": {
+    "Course_name": "ART&ARCHITEC.OF HIST.CAPITAL:OTT.MON.",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MUTLU M.ERBAY",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PHIL101.01": {
+    "Course_name": "INTRODUCTION TO PHILOSOPHY",
+    "Credit": 3.0,
+    "Ects": 8.0,
+    "Instructor_name": "TU\u00d0BA SEV\u00ddN\u00c7 Y\u00dcCEL",
+    "Hours": {
+      "M": [],
+      "T": [
+        6,
+        7
+      ],
+      "W": [
+        6,
+        7
+      ],
+      "Th": [
+        6,
+        7
+      ],
+      "F": []
+    },
+    "Places": "JF 102|JF 102|JF 108|JF 108|JF 331|JF 331"
+  },
+  "PHIL101.02": {
+    "Course_name": "INTRODUCTION TO PHILOSOPHY",
+    "Credit": 3.0,
+    "Ects": 8.0,
+    "Instructor_name": "EL\u00ddF YAVN\u00ddK",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [],
+      "Th": [
+        5,
+        6
+      ],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "TB 310|TB 310|TB 310|TB 310|TB 310|TB 310"
+  },
+  "PHIL105.01": {
+    "Course_name": "INFORMAL LOGIC",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "FRANK ZENKER",
+    "Hours": {
+      "M": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "TB 310|TB 310|TB 310|TB 310|M 1100|M 1100|M 1100|M 1100"
+  },
+  "PHIL111.01": {
+    "Course_name": "INTRO.TO ANCIENT & MEDIEVAL PHILOSOPHY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "CHRISTOPHER COLVIN",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "M 1100|M 1100|M 1170|M 1170|M 1170|M 1170"
+  },
+  "PHIL112.01": {
+    "Course_name": "INTRODUCTION TO MODERN PHILOSOPHY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "TU\u00d0BA SEV\u00ddN\u00c7 Y\u00dcCEL",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "TB 240|TB 240|NH 402|NH 402|TB 490|TB 490"
+  },
+  "PHIL131.01": {
+    "Course_name": "LOGIC I",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "SUN DEM\u00ddRL\u00dd",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "TB 240|TB 240|JF 108|JF 108|TB 415|TB 415|TB 240|TB 240"
+  },
+  "PHIL131.02": {
+    "Course_name": "LOGIC I",
+    "Credit": 4.0,
+    "Ects": 8.0,
+    "Instructor_name": "SUN DEM\u00ddRL\u00dd",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "TB 415|TB 415|TB 240|TB 240|TB 490|TB 490|TB 415|TB 415"
+  },
+  "PHIL213.01": {
+    "Course_name": "HISTORY OF PHILOSOPHY I",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "PANOS ELIOPOULOS",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "TB 490|TB 490|TB 415|TB 415|TB 415|TB 415"
+  },
+  "PHIL444.01": {
+    "Course_name": "PHILOSOHY & LITERATURE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "\u00c7\u00dd\u00d0DEM YAZICI",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 2181|M 2181|TB 490|TB 490|TB 310|TB 310"
+  },
+  "PHIL461.01": {
+    "Course_name": "AESTHETICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "STEPHEN SNYDER",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "TB 415|TB 415|EF 101|EF 101|TB 490|TB 490"
+  },
+  "PHIL49R.01": {
+    "Course_name": "SP.TP.DEMOCRACY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "AL\u00dd EMRE BENL\u00dd",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "TB 240|TB 240|M 2171|M 2171|M 2171|M 2171"
+  },
+  "POLS101.01": {
+    "Course_name": "INTRODUCTION TO POLITICAL SCIENCE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "HAKAN YILMAZ",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 404|NH 404|NH 404|NH 404|NH 404|NH 404"
+  },
+  "POLS101.02": {
+    "Course_name": "INTRODUCTION TO POLITICAL SCIENCE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MURAT AKAN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "\u00ddB 102|\u00ddB 102|\u00ddB 201|\u00ddB 201|\u00ddB 102|\u00ddB 102"
+  },
+  "POLS101.03": {
+    "Course_name": "INTRODUCTION TO POLITICAL SCIENCE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MURAT AKAN",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "\u00ddB 102|\u00ddB 102|\u00ddB 201|\u00ddB 201|\u00ddB 102|\u00ddB 102"
+  },
+  "POLS215.01": {
+    "Course_name": "COMPARATIVE POLITICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MURAT AKAN",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "\u00ddB 102|\u00ddB 102|\u00ddB 201|\u00ddB 201|\u00ddB 102|\u00ddB 102"
+  },
+  "POLS320.01": {
+    "Course_name": "POLITICS IN ASIA AND THE PACIFIC",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "PONTUS WALLIN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "\u00ddB 201|\u00ddB 201|\u00ddB 201|\u00ddB 201|\u00ddB 201|\u00ddB 201"
+  },
+  "POLS408.01": {
+    "Course_name": "DEMOCRATIC THEORY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "BARI\u00de \u00c7ET\u00ddN EREN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "\u00ddB 211|\u00ddB 211|\u00ddB 312|\u00ddB 312|\u00ddB 201|\u00ddB 201"
+  },
+  "POLS409.01": {
+    "Course_name": "CONTEMPORARY AMERICAN POLITICS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "MEHMET AL\u00dd \u00c7\u00dd\u00c7EKDA\u00d0",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "\u00ddB 201|\u00ddB 201|\u00ddB 201|\u00ddB 201|\u00ddB 312|\u00ddB 312"
+  },
+  "PRED210.01": {
+    "Course_name": "MUSIC & MOVEMENT IN EARLY CHILDHOOD",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "I\u00deIK SABIRLI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "Th": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NH 001|NH 001|NH 001|NH 001|NH 001|NH 001|NH 001|NH 001"
+  },
+  "PRED310.01": {
+    "Course_name": "SPECIAL EDUCATION IN EARLY AND PRIMARY Y",
+    "Credit": 3.0,
+    "Ects": 7.0,
+    "Instructor_name": "COLLEEN MARIE CHECHO",
+    "Hours": {
+      "M": [
+        1,
+        2,
+        3
+      ],
+      "T": [],
+      "W": [
+        1,
+        2,
+        3
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "ET B415|ET B415|ET B415|ET B415|ET B415|ET B415"
+  },
+  "PRED331.01": {
+    "Course_name": "SP.ED.IN EARLY CHILDHOOD&PRIMARY SCH.",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "COLLEEN MARIE CHECHO",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2,
+        3
+      ],
+      "W": [],
+      "Th": [
+        1,
+        2,
+        3
+      ],
+      "F": []
+    },
+    "Places": "ET B415|ET B415|ET B415|ET B415|ET B415|ET B415"
+  },
+  "PRED348.01": {
+    "Course_name": "COMMUNITY SERVICE",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "I\u00deIK SABIRLI",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        2,
+        3,
+        4
+      ],
+      "Th": [
+        5,
+        6,
+        7
+      ],
+      "F": []
+    },
+    "Places": ""
+  },
+  "PRED420.01": {
+    "Course_name": "CREATIVE DRAMA ACTIVITIES",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "B\u00dcLENT SEZG\u00ddN",
+    "Hours": {
+      "M": [],
+      "T": [
+        2,
+        3,
+        4
+      ],
+      "W": [
+        2,
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 001|NH 001|NH 001|NH 001|NH 001|NH 001"
+  },
+  "PRED420.02": {
+    "Course_name": "CREATIVE DRAMA ACTIVITIES",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "B\u00dcLENT SEZG\u00ddN",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6,
+        7
+      ],
+      "W": [
+        5,
+        6,
+        7
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "NH 001|NH 001|NH 001|ET 01|ET 01|ET 01"
+  },
+  "PSY101.01": {
+    "Course_name": "INTRODUCTION TO PSYCHOLOGY",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "H\u00ddLAL \u00deEN",
+    "Hours": {
+      "M": [],
+      "T": [
+        4,
+        5,
+        6
+      ],
+      "W": [],
+      "Th": [
+        4,
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "AYHAN \u00deAHENK|AYHAN \u00deAHENK|AYHAN \u00deAHENK|AYHAN \u00deAHENK|AYHAN \u00deAHENK|AYHAN \u00deAHENK"
+  },
+  "PSY466.01": {
+    "Course_name": "INDUSTRIAL&ORGANIZATIONAL PSYCHOLOGY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "B\u00dcLENT KILI\u00c7",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2,
+        3
+      ],
+      "W": [],
+      "Th": [
+        1,
+        2,
+        3
+      ],
+      "F": []
+    },
+    "Places": "M 2230|M 2230|M 2230|M 2230|M 2230|M 2230"
+  },
+  "PSY48G.01": {
+    "Course_name": "SEL.TP.PSY.OF CLOSE RELATIONSHIPS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "G\u00ddZEM S\u00dcRENK\u00d6K ULUTAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "NH 104|NH 104|NH 104|NH 104|NH 104|NH 104"
+  },
+  "PSY48H.01": {
+    "Course_name": "SEL.TOP.: FORENSIC PSYCHOLOGY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "D\u00ddLEK \u00c7EL\u00ddK",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        4,
+        5,
+        6
+      ],
+      "F": [
+        2,
+        3,
+        4
+      ]
+    },
+    "Places": "M 2230|M 2230|M 2230|M 1170|M 1170|M 1170"
+  },
+  "SOC101.01": {
+    "Course_name": "INTRODUCTION TO SOCIOLOGY",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "TAYLAN ACAR",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "M 1100|M 1100|M 1100|M 1100|M 1100|M 1100"
+  },
+  "SOC101.02": {
+    "Course_name": "INTRODUCTION TO SOCIOLOGY",
+    "Credit": 3.0,
+    "Ects": 4.0,
+    "Instructor_name": "TAYLAN ACAR",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "M 1100|M 1100|M 1100|M 1100|M 1100|M 1100"
+  },
+  "SOC224.01": {
+    "Course_name": "URBAN SOCIOLOGY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "FIRAT GEN\u00c7",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 1100|M 1100|M 2200|M 2200|M 2230|M 2230"
+  },
+  "SOC324.01": {
+    "Course_name": "POWER & INEQUALITY",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "B\u00dcLENT K\u00dc\u00c7\u00dcK",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "M 2170|M 2170|EF 203|EF 203|M 2171|M 2171"
+  },
+  "SOC342.01": {
+    "Course_name": "POLITICAL SOCIOLOGY",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "BARI\u00de \u00c7ET\u00ddN EREN",
+    "Hours": {
+      "M": [],
+      "T": [
+        9,
+        10
+      ],
+      "W": [
+        9,
+        10
+      ],
+      "Th": [
+        9,
+        10
+      ],
+      "F": []
+    },
+    "Places": "M 2230|M 2230|M 2230|M 2230|M 2230|M 2230"
+  },
+  "SOC371.01": {
+    "Course_name": "HISTORY OF SOCIOLOGICAL THEORY",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "JOSEPH BRYANT",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "M 1170|M 1170|M 2170|M 2170|M 2152|M 2152"
+  },
+  "SOC375.01": {
+    "Course_name": "SOCIOLOGY OF LAW",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "AYL\u00ddN KO\u00c7UNYAN",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 2171|M 2171|M 2171|M 2171|M 2170|M 2170"
+  },
+  "SOC442.01": {
+    "Course_name": "ECONOMY&SOCIETY IN THE LATE TWENTIETH CH",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "UMUT KURU\u00dcZ\u00dcM",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 2181|M 2181|M 2180|M 2180|M 2152|M 2152"
+  },
+  "SOC462.01": {
+    "Course_name": "SOCIOLOGY OF GENDER",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "ARZU \u00dcNAL",
+    "Hours": {
+      "M": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "T": [],
+      "W": [],
+      "Th": [],
+      "F": [
+        1,
+        2
+      ]
+    },
+    "Places": "M 1170|M 1170|M 1170|M 1170|M 1171|M 1171"
+  },
+  "SOC468.01": {
+    "Course_name": "MIGRATION STUDIES",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "EDA SEV\u00ddN\u00ddN",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "M 2171|M 2171|JF 101|JF 101|M 2152|M 2152"
+  },
+  "SOC479.01": {
+    "Course_name": "SOCIOLOGY OF CITIZENSHIP&HUMAN RIGHTS",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "N\u00ddLAY KAVUR",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [
+        1,
+        2
+      ],
+      "F": []
+    },
+    "Places": "M 2231|M 2231|M 2152|M 2152|M 1200|M 1200"
+  },
+  "TK221.01": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "KAB\u00ddL DEM\u00ddRKIRAN",
+    "Hours": {
+      "M": [
+        1,
+        2
+      ],
+      "T": [
+        1,
+        2
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 07|KP 07|KP 03|KP 03"
+  },
+  "TK221.02": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "KAB\u00ddL DEM\u00ddRKIRAN",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 07|KP 07|KP 03|KP 03"
+  },
+  "TK221.03": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "KAB\u00ddL DEM\u00ddRKIRAN",
+    "Hours": {
+      "M": [
+        7,
+        8
+      ],
+      "T": [
+        7,
+        8
+      ],
+      "W": [],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 03|KP 03|KP 03|KP 03"
+  },
+  "TK221.04": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "KAB\u00ddL DEM\u00ddRKIRAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 03|KP 03|KP 03|KP 03"
+  },
+  "TK221.05": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZCAN  KAYA",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 04|KP 04|KP 02|KP 02"
+  },
+  "TK221.06": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZCAN  KAYA",
+    "Hours": {
+      "M": [],
+      "T": [
+        5,
+        6
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 04|KP 04|KP 02|KP 02"
+  },
+  "TK221.07": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "\u00d6ZCAN  KAYA",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 02|KP 02|KP 02|KP 02"
+  },
+  "TK221.08": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESRA DEM\u00ddRKOPARAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "KP 04|KP 04|NH 202|NH 202"
+  },
+  "TK221.09": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESRA DEM\u00ddRKOPARAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "KP 04|KP 04|NH 202|NH 202"
+  },
+  "TK221.10": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS I",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESRA DEM\u00ddRKOPARAN",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "KP 04|KP 04|NH 202|NH 202"
+  },
+  "TK222.03": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "HANDAN KONAR",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 03|KP 03|KP 06|KP 06"
+  },
+  "TK222.04": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "HANDAN KONAR",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 03|KP 03|KP 06|KP 06"
+  },
+  "TK222.05": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESRA D\u00ddCLE",
+    "Hours": {
+      "M": [],
+      "T": [
+        1,
+        2
+      ],
+      "W": [
+        1,
+        2
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 02|KP 02|KP 05|KP 05"
+  },
+  "TK222.06": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESRA D\u00ddCLE",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 02|KP 02|KP 05|KP 05"
+  },
+  "TK222.07": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "ESRA D\u00ddCLE",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "KP 04|KP 04|KP 05|KP 05"
+  },
+  "TK222.08": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "H\u00dcLYA BULUT",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        3,
+        4
+      ],
+      "F": [
+        3,
+        4
+      ]
+    },
+    "Places": "KP 04|KP 04|KP 04|KP 04"
+  },
+  "TK222.09": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "H\u00dcLYA BULUT",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        5,
+        6
+      ],
+      "F": [
+        5,
+        6
+      ]
+    },
+    "Places": "KP 04|KP 04|KP 04|KP 04"
+  },
+  "TK222.10": {
+    "Course_name": "TURKISH FOR NATIVE SPEAKERS II",
+    "Credit": 2.0,
+    "Ects": 3.0,
+    "Instructor_name": "H\u00dcLYA BULUT",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [],
+      "Th": [
+        7,
+        8
+      ],
+      "F": [
+        7,
+        8
+      ]
+    },
+    "Places": "KP 04|KP 04|KP 04|KP 04"
+  },
+  "TKF111.01": {
+    "Course_name": "ELEMENTARY TURKISH FOR  FOREIGNERS I",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "AYDIN S\u00d6YLEMEZ",
+    "Hours": {
+      "M": [
+        9,
+        10
+      ],
+      "T": [
+        9,
+        10
+      ],
+      "W": [
+        9,
+        10
+      ],
+      "Th": [
+        9,
+        10
+      ],
+      "F": []
+    },
+    "Places": "M 1200|M 1200|M 1171|M 1171|M 1171|M 1171|M 1171|M 1171"
+  },
+  "TKL101.01": {
+    "Course_name": "OTTOMAN TURKISH I",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "T\u00dcLAY GEN\u00c7T\u00dcRK-DEM\u00ddRC\u00ddO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [
+        3,
+        4,
+        5
+      ],
+      "W": [
+        3,
+        4,
+        5
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "M 1200|M 1200|M 1200|M 2152|M 2152|M 2152|M 1200|M 1200"
+  },
+  "TKL102.01": {
+    "Course_name": "OTTOMAN TURKISH II",
+    "Credit": 4.0,
+    "Ects": 6.0,
+    "Instructor_name": "FATMA B\u00dcY\u00dcKKARCI (YILMAZ)",
+    "Hours": {
+      "M": [
+        5,
+        6
+      ],
+      "T": [
+        3,
+        4
+      ],
+      "W": [
+        5,
+        6
+      ],
+      "Th": [
+        5,
+        6
+      ],
+      "F": []
+    },
+    "Places": "NB 119|NB 119|\u00ddB 102|\u00ddB 102|M 1200|M 1200|M 2181|M 2181"
+  },
+  "TKL204.01": {
+    "Course_name": "GENRES IN DIVAN LITERATURE",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "FATMA B\u00dcY\u00dcKKARCI (YILMAZ)",
+    "Hours": {
+      "M": [
+        3,
+        4
+      ],
+      "T": [],
+      "W": [
+        3,
+        4
+      ],
+      "Th": [
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "NB 119|NB 119|M 1200|M 1200|\u00ddB 102|\u00ddB 102"
+  },
+  "TKL213.01": {
+    "Course_name": "TURKIC LANGUAGES & DIALECTS I",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "ARZU \u00c7\u00ddFTO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [],
+      "W": [
+        3,
+        4,
+        5
+      ],
+      "Th": [],
+      "F": [
+        3,
+        4,
+        5
+      ]
+    },
+    "Places": "M 2170|M 2170|M 2170|NB 119|NB 119|NB 119"
+  },
+  "TKL215.01": {
+    "Course_name": "OTTOMAN PALEOGRAPHY I",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "HASAN KARATA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [
+        2,
+        3,
+        4
+      ],
+      "W": [],
+      "Th": [
+        6,
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 2152|M 2152|M 2152|M 1200|M 1200|M 1200"
+  },
+  "TKL216.01": {
+    "Course_name": "OTTOMAN PALEOGRAPHY II",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "HASAN KARATA\u00de",
+    "Hours": {
+      "M": [],
+      "T": [
+        6,
+        7,
+        8
+      ],
+      "W": [],
+      "Th": [
+        2,
+        3,
+        4
+      ],
+      "F": []
+    },
+    "Places": "M 1200|M 1200|M 1200|M 2170|M 2170|M 2170"
+  },
+  "TKL217.01": {
+    "Course_name": "OLD ANATOLIAN TURKISH",
+    "Credit": 3.0,
+    "Ects": 5.0,
+    "Instructor_name": "T\u00dcLAY GEN\u00c7T\u00dcRK-DEM\u00ddRC\u00ddO\u00d0LU",
+    "Hours": {
+      "M": [],
+      "T": [
+        7,
+        8
+      ],
+      "W": [
+        7,
+        8
+      ],
+      "Th": [
+        7,
+        8
+      ],
+      "F": []
+    },
+    "Places": "M 2152|M 2152|M 2152|M 2152|M 1170|M 1170"
+  },
+  "TKL48B.01": {
+    "Course_name": "SP.TP.EDITING",
+    "Credit": 3.0,
+    "Ects": 6.0,
+    "Instructor_name": "SEVENG\u00dcL S\u00d6NMEZ",
+    "Hours": {
+      "M": [],
+      "T": [
+        2,
+        3,
+        4
+      ],
+      "W": [
+        6,
+        7,
+        8
+      ],
+      "Th": [],
+      "F": []
+    },
+    "Places": "EF 201|EF 201|EF 201|EF 205|EF 205|EF 205"
+  }
+}]

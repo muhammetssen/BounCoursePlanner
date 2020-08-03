@@ -1,11 +1,33 @@
-import {updateDropDown} from "./Modules/MustCourses.js";
+import {remove_from_table} from "./Modules/CourseTable.js";
 import { updateGrid, clearGrid } from "./Modules/DisplayedTable.js";
+
 var courseJson;
 var courses;
-$.getJSON("src/2019-2020-2.json", function (data) {
+$.getJSON("src/2019-2020-3.json", function (data) {
   courseJson = data[0];
   courses = Object.keys(courseJson);
 });
+
+document.getElementById('TermsDropDown').onchange = changeTerm;
+function changeTerm(e){
+  searchBar.value = "";
+  var selected_index = e.target.selectedIndex;
+   var selectedTerm= e.target[selected_index].value;
+   const count = added_courses.length;
+   for (let index = 0; index < count; index++) {
+     var element = added_courses[0];
+     remove_from_table(element);
+
+     
+   }
+
+   $.getJSON(`src/${selectedTerm}.json`, function (data) {
+     courseJson = data[0];
+     courses = Object.keys(courseJson);     
+
+    });
+    clearGrid();
+}
 var totalCredit = 0;
 export { courseJson, totalCredit, totalCreditElement };
 
@@ -31,19 +53,20 @@ var colors = [
 export { colors };
 
 var displayed_courses;
-document.getElementById("SearchBox").onkeyup = function () {
-  searchBarText = searchBar.value.split(" ").join("");
-  if (searchBarText.length < 2) {
-    clearGrid();
-    return;
-  }
-  displayed_courses = courses.filter(
-    (course) =>
-      searchBarText.toUpperCase() ==
-      course.substring(0, searchBarText.length).split(" ").join("")
-  );
-  updateGrid();
-};
+  document.getElementById("SearchBox").onkeyup = function () {
+    searchBarText = searchBar.value.split(" ").join("");
+    if (searchBarText.length < 2) {
+      clearGrid();
+      return;
+    }
+    displayed_courses = courses.filter(
+      (course) =>
+        searchBarText.toUpperCase() ==
+        course.substring(0, searchBarText.length).split(" ").join("")
+    );
+    updateGrid();
+  };
+  
 
 let added_courses = new Array();
 export { added_courses, displayed_courses };
